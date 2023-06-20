@@ -1,0 +1,23 @@
+!
+! sc_bsyd
+!
+call, file = $LCLS_LATTICE/bmad/master/SC_BSYD.bmad
+
+call, file = $LCLS_LATTICE/bmad/master/LCLSsc_devicenames.bmad
+call, file = $LCLS_LATTICE/bmad/overlays/sc/linac_overlays.bmad
+call, file = $LCLS_LATTICE/bmad/overlays/sc/bc1_overlays.bmad
+call, file = $LCLS_LATTICE/bmad/overlays/sc/bc2_overlays.bmad
+
+! Extra match settings
+call, file =  $LCLS_LATTICE/bmad/master/sc/sc_linac_settings.bmad
+
+! Wakefields
+call, file =  $LCLS_LATTICE/bmad/master/sc/sc_linac_wakefields.bmad
+
+sbend::*[fringe_type] = full
+call, file = $LCLS_LATTICE/bmad/master/gunb/beginning_BEGGUNB.bmad
+
+OTRC006_ty: match, superimpose, ref=OTRC006, match_end=T,
+                beta_a1=9.35464266, beta_b1=12.45714235, alpha_a1=1.10903927, alpha_b1=-1.33444653
+
+use, SC_BSYD

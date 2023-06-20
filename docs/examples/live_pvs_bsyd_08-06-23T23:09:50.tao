@@ -1,0 +1,1293 @@
+set global lattice_calc_on = F
+set global plot_on = F
+set data orbit.x[1]|meas  = 0.001 * -0.9472686052322388
+set data orbit.x[2]|meas  = 0.001 * -0.2948053479194641
+! Bad value for orbit.x[3][]: nan
+! Bad value for orbit.x[4][]: nan
+! Bad value for orbit.x[5][]: nan
+! Bad value for orbit.x[6][]: nan
+! Bad value for orbit.x[7][]: nan
+! Bad value for orbit.x[8][]: nan
+! Bad value for orbit.x[9][]: nan
+! Bad value for orbit.x[10][]: nan
+! Bad value for orbit.x[11][]: nan
+! Bad value for orbit.x[12][]: nan
+! Bad value for orbit.x[13][]: nan
+! Bad value for orbit.x[14][]: nan
+! Bad value for orbit.x[15][]: nan
+! Bad value for orbit.x[16][]: nan
+! Bad value for orbit.x[17][]: nan
+! Bad value for orbit.x[18][]: nan
+! Bad value for orbit.x[19][]: nan
+! Bad value for orbit.x[20][]: nan
+! Bad value for orbit.x[21][]: nan
+! Bad value for orbit.x[22][]: nan
+! Bad value for orbit.x[23][]: nan
+! Bad value for orbit.x[24][]: nan
+! Bad value for orbit.x[25][]: nan
+! Bad value for orbit.x[26][]: nan
+! Bad value for orbit.x[27][]: nan
+! Bad value for orbit.x[28][]: nan
+! Bad value for orbit.x[29][]: nan
+! Bad value for orbit.x[30][]: nan
+! Bad value for orbit.x[31][]: nan
+! Bad value for orbit.x[32][]: nan
+! Bad value for orbit.x[33][]: nan
+! Bad value for orbit.x[34][]: nan
+! Bad value for orbit.x[35][]: nan
+! Bad value for orbit.x[36][]: nan
+! Bad value for orbit.x[37][]: nan
+! Bad value for orbit.x[38][]: nan
+! Bad value for orbit.x[39][]: nan
+! Bad value for orbit.x[40][]: nan
+! Bad value for orbit.x[41][]: nan
+! Bad value for orbit.x[42][]: nan
+! Bad value for orbit.x[43][]: nan
+! Bad value for orbit.x[44][]: nan
+! Bad value for orbit.x[45][]: nan
+! Bad value for orbit.x[46][]: nan
+! Bad value for orbit.x[47][]: nan
+! Bad value for orbit.x[48][]: nan
+! Bad value for orbit.x[49][]: nan
+! Bad value for orbit.x[50][]: nan
+! Bad value for orbit.x[51][]: nan
+! Bad value for orbit.x[52][]: nan
+! Bad value for orbit.x[53][]: nan
+! Bad value for orbit.x[54][]: nan
+! Bad value for orbit.x[55][]: nan
+! Bad value for orbit.x[56][]: nan
+! Bad value for orbit.x[57][]: nan
+! Bad value for orbit.x[58][]: nan
+! Bad value for orbit.x[59][]: nan
+! Bad value for orbit.x[60][]: nan
+! Bad value for orbit.x[61][]: nan
+! Bad value for orbit.x[62][]: nan
+! Bad value for orbit.x[63][]: nan
+! Bad value for orbit.x[64][]: nan
+! Bad value for orbit.x[65][]: nan
+! Bad value for orbit.x[66][]: nan
+! Bad value for orbit.x[67][]: nan
+! Bad value for orbit.x[68][]: nan
+! Bad value for orbit.x[69][]: nan
+! Bad value for orbit.x[70][]: nan
+! Bad value for orbit.x[71][]: nan
+! Bad value for orbit.x[72][]: nan
+! Bad value for orbit.x[73][]: nan
+! Bad value for orbit.x[74][]: nan
+! Bad value for orbit.x[75][]: nan
+! Bad value for orbit.x[76][]: nan
+! Bad value for orbit.x[77][]: nan
+! Bad value for orbit.x[78][]: nan
+! Bad value for orbit.x[79][]: nan
+! Bad value for orbit.x[80][]: nan
+! Bad value for orbit.x[81][]: nan
+! Bad value for orbit.x[82][]: nan
+! Bad value for orbit.x[83][]: nan
+! Bad value for orbit.x[84][]: nan
+! Bad value for orbit.x[85][]: nan
+! Bad value for orbit.x[86][]: nan
+! Bad value for orbit.x[87][]: nan
+! Bad value for orbit.x[88][]: nan
+! Bad value for orbit.x[89][]: nan
+! Bad value for orbit.x[90][]: nan
+! Bad value for orbit.x[91][]: nan
+! Bad value for orbit.x[92][]: nan
+! Bad value for orbit.x[93][]: nan
+! Bad value for orbit.x[94][]: nan
+! Bad value for orbit.x[95][]: nan
+! Bad value for orbit.x[96][]: nan
+! Bad value for orbit.x[97][]: nan
+! Bad value for orbit.x[98][]: nan
+! Bad value for orbit.x[99][]: nan
+! Bad value for orbit.x[100][]: nan
+! Bad value for orbit.x[101][]: nan
+! Bad value for orbit.x[102][]: nan
+! Bad value for orbit.x[103][]: nan
+! Bad value for orbit.x[104][]: nan
+! Bad value for orbit.x[105][]: nan
+! Bad value for orbit.x[106][]: nan
+! Bad value for orbit.x[107][]: nan
+! Bad value for orbit.x[108][]: nan
+! Bad value for orbit.x[109][]: nan
+! Bad value for orbit.x[110][]: nan
+! Bad value for orbit.x[111][]: nan
+! Bad value for orbit.x[112][]: nan
+! Bad value for orbit.x[113][]: nan
+! Bad value for orbit.x[114][]: nan
+! Bad value for orbit.x[115][]: nan
+! Bad value for orbit.x[116][]: nan
+! Bad value for orbit.x[117][]: nan
+! Bad value for orbit.x[118][]: nan
+! Bad value for orbit.x[119][]: nan
+! Bad value for orbit.x[120][]: nan
+! Bad value for orbit.x[121][]: nan
+! Bad value for orbit.x[122][]: nan
+! Bad value for orbit.x[123][]: nan
+! Bad value for orbit.x[124][]: nan
+! Bad value for orbit.x[125][]: nan
+! Bad value for orbit.x[126][]: nan
+! Bad value for orbit.x[127][]: nan
+set data orbit.y[1]|meas  = 0.001 * -0.7949432134628296
+set data orbit.y[2]|meas  = 0.001 * 0.19798924028873444
+! Bad value for orbit.y[3][]: nan
+! Bad value for orbit.y[4][]: nan
+! Bad value for orbit.y[5][]: nan
+! Bad value for orbit.y[6][]: nan
+! Bad value for orbit.y[7][]: nan
+! Bad value for orbit.y[8][]: nan
+! Bad value for orbit.y[9][]: nan
+! Bad value for orbit.y[10][]: nan
+! Bad value for orbit.y[11][]: nan
+! Bad value for orbit.y[12][]: nan
+! Bad value for orbit.y[13][]: nan
+! Bad value for orbit.y[14][]: nan
+! Bad value for orbit.y[15][]: nan
+! Bad value for orbit.y[16][]: nan
+! Bad value for orbit.y[17][]: nan
+! Bad value for orbit.y[18][]: nan
+! Bad value for orbit.y[19][]: nan
+! Bad value for orbit.y[20][]: nan
+! Bad value for orbit.y[21][]: nan
+! Bad value for orbit.y[22][]: nan
+! Bad value for orbit.y[23][]: nan
+! Bad value for orbit.y[24][]: nan
+! Bad value for orbit.y[25][]: nan
+! Bad value for orbit.y[26][]: nan
+! Bad value for orbit.y[27][]: nan
+! Bad value for orbit.y[28][]: nan
+! Bad value for orbit.y[29][]: nan
+! Bad value for orbit.y[30][]: nan
+! Bad value for orbit.y[31][]: nan
+! Bad value for orbit.y[32][]: nan
+! Bad value for orbit.y[33][]: nan
+! Bad value for orbit.y[34][]: nan
+! Bad value for orbit.y[35][]: nan
+! Bad value for orbit.y[36][]: nan
+! Bad value for orbit.y[37][]: nan
+! Bad value for orbit.y[38][]: nan
+! Bad value for orbit.y[39][]: nan
+! Bad value for orbit.y[40][]: nan
+! Bad value for orbit.y[41][]: nan
+! Bad value for orbit.y[42][]: nan
+! Bad value for orbit.y[43][]: nan
+! Bad value for orbit.y[44][]: nan
+! Bad value for orbit.y[45][]: nan
+! Bad value for orbit.y[46][]: nan
+! Bad value for orbit.y[47][]: nan
+! Bad value for orbit.y[48][]: nan
+! Bad value for orbit.y[49][]: nan
+! Bad value for orbit.y[50][]: nan
+! Bad value for orbit.y[51][]: nan
+! Bad value for orbit.y[52][]: nan
+! Bad value for orbit.y[53][]: nan
+! Bad value for orbit.y[54][]: nan
+! Bad value for orbit.y[55][]: nan
+! Bad value for orbit.y[56][]: nan
+! Bad value for orbit.y[57][]: nan
+! Bad value for orbit.y[58][]: nan
+! Bad value for orbit.y[59][]: nan
+! Bad value for orbit.y[60][]: nan
+! Bad value for orbit.y[61][]: nan
+! Bad value for orbit.y[62][]: nan
+! Bad value for orbit.y[63][]: nan
+! Bad value for orbit.y[64][]: nan
+! Bad value for orbit.y[65][]: nan
+! Bad value for orbit.y[66][]: nan
+! Bad value for orbit.y[67][]: nan
+! Bad value for orbit.y[68][]: nan
+! Bad value for orbit.y[69][]: nan
+! Bad value for orbit.y[70][]: nan
+! Bad value for orbit.y[71][]: nan
+! Bad value for orbit.y[72][]: nan
+! Bad value for orbit.y[73][]: nan
+! Bad value for orbit.y[74][]: nan
+! Bad value for orbit.y[75][]: nan
+! Bad value for orbit.y[76][]: nan
+! Bad value for orbit.y[77][]: nan
+! Bad value for orbit.y[78][]: nan
+! Bad value for orbit.y[79][]: nan
+! Bad value for orbit.y[80][]: nan
+! Bad value for orbit.y[81][]: nan
+! Bad value for orbit.y[82][]: nan
+! Bad value for orbit.y[83][]: nan
+! Bad value for orbit.y[84][]: nan
+! Bad value for orbit.y[85][]: nan
+! Bad value for orbit.y[86][]: nan
+! Bad value for orbit.y[87][]: nan
+! Bad value for orbit.y[88][]: nan
+! Bad value for orbit.y[89][]: nan
+! Bad value for orbit.y[90][]: nan
+! Bad value for orbit.y[91][]: nan
+! Bad value for orbit.y[92][]: nan
+! Bad value for orbit.y[93][]: nan
+! Bad value for orbit.y[94][]: nan
+! Bad value for orbit.y[95][]: nan
+! Bad value for orbit.y[96][]: nan
+! Bad value for orbit.y[97][]: nan
+! Bad value for orbit.y[98][]: nan
+! Bad value for orbit.y[99][]: nan
+! Bad value for orbit.y[100][]: nan
+! Bad value for orbit.y[101][]: nan
+! Bad value for orbit.y[102][]: nan
+! Bad value for orbit.y[103][]: nan
+! Bad value for orbit.y[104][]: nan
+! Bad value for orbit.y[105][]: nan
+! Bad value for orbit.y[106][]: nan
+! Bad value for orbit.y[107][]: nan
+! Bad value for orbit.y[108][]: nan
+! Bad value for orbit.y[109][]: nan
+! Bad value for orbit.y[110][]: nan
+! Bad value for orbit.y[111][]: nan
+! Bad value for orbit.y[112][]: nan
+! Bad value for orbit.y[113][]: nan
+! Bad value for orbit.y[114][]: nan
+! Bad value for orbit.y[115][]: nan
+! Bad value for orbit.y[116][]: nan
+! Bad value for orbit.y[117][]: nan
+! Bad value for orbit.y[118][]: nan
+! Bad value for orbit.y[119][]: nan
+! Bad value for orbit.y[120][]: nan
+! Bad value for orbit.y[121][]: nan
+! Bad value for orbit.y[122][]: nan
+! Bad value for orbit.y[123][]: nan
+! Bad value for orbit.y[124][]: nan
+! Bad value for orbit.y[125][]: nan
+! Bad value for orbit.y[126][]: nan
+! Bad value for orbit.y[127][]: nan
+set data orbit.charge[1]|meas  = 1.6021766340000001e-19 * 306107968.0
+set data orbit.charge[2]|meas  = 1.6021766340000001e-19 * 310960512.0
+! Bad value for orbit.charge[3][]: nan
+! Bad value for orbit.charge[4][]: nan
+! Bad value for orbit.charge[5][]: nan
+! Bad value for orbit.charge[6][]: nan
+! Bad value for orbit.charge[7][]: nan
+! Bad value for orbit.charge[8][]: nan
+! Bad value for orbit.charge[9][]: nan
+! Bad value for orbit.charge[10][]: nan
+! Bad value for orbit.charge[11][]: nan
+! Bad value for orbit.charge[12][]: nan
+! Bad value for orbit.charge[13][]: nan
+! Bad value for orbit.charge[14][]: nan
+! Bad value for orbit.charge[15][]: nan
+! Bad value for orbit.charge[16][]: nan
+! Bad value for orbit.charge[17][]: nan
+! Bad value for orbit.charge[18][]: nan
+! Bad value for orbit.charge[19][]: nan
+! Bad value for orbit.charge[20][]: nan
+! Bad value for orbit.charge[21][]: nan
+! Bad value for orbit.charge[22][]: nan
+! Bad value for orbit.charge[23][]: nan
+! Bad value for orbit.charge[24][]: nan
+! Bad value for orbit.charge[25][]: nan
+! Bad value for orbit.charge[26][]: nan
+! Bad value for orbit.charge[27][]: nan
+! Bad value for orbit.charge[28][]: nan
+! Bad value for orbit.charge[29][]: nan
+! Bad value for orbit.charge[30][]: nan
+! Bad value for orbit.charge[31][]: nan
+! Bad value for orbit.charge[32][]: nan
+! Bad value for orbit.charge[33][]: nan
+! Bad value for orbit.charge[34][]: nan
+! Bad value for orbit.charge[35][]: nan
+! Bad value for orbit.charge[36][]: nan
+! Bad value for orbit.charge[37][]: nan
+! Bad value for orbit.charge[38][]: nan
+! Bad value for orbit.charge[39][]: nan
+! Bad value for orbit.charge[40][]: nan
+! Bad value for orbit.charge[41][]: nan
+! Bad value for orbit.charge[42][]: nan
+! Bad value for orbit.charge[43][]: nan
+! Bad value for orbit.charge[44][]: nan
+! Bad value for orbit.charge[45][]: nan
+! Bad value for orbit.charge[46][]: nan
+! Bad value for orbit.charge[47][]: nan
+! Bad value for orbit.charge[48][]: nan
+! Bad value for orbit.charge[49][]: nan
+! Bad value for orbit.charge[50][]: nan
+! Bad value for orbit.charge[51][]: nan
+! Bad value for orbit.charge[52][]: nan
+! Bad value for orbit.charge[53][]: nan
+! Bad value for orbit.charge[54][]: nan
+! Bad value for orbit.charge[55][]: nan
+! Bad value for orbit.charge[56][]: nan
+! Bad value for orbit.charge[57][]: nan
+! Bad value for orbit.charge[58][]: nan
+! Bad value for orbit.charge[59][]: nan
+! Bad value for orbit.charge[60][]: nan
+! Bad value for orbit.charge[61][]: nan
+! Bad value for orbit.charge[62][]: nan
+! Bad value for orbit.charge[63][]: nan
+! Bad value for orbit.charge[64][]: nan
+! Bad value for orbit.charge[65][]: nan
+! Bad value for orbit.charge[66][]: nan
+! Bad value for orbit.charge[67][]: nan
+! Bad value for orbit.charge[68][]: nan
+! Bad value for orbit.charge[69][]: nan
+! Bad value for orbit.charge[70][]: nan
+! Bad value for orbit.charge[71][]: nan
+! Bad value for orbit.charge[72][]: nan
+! Bad value for orbit.charge[73][]: nan
+! Bad value for orbit.charge[74][]: nan
+! Bad value for orbit.charge[75][]: nan
+! Bad value for orbit.charge[76][]: nan
+! Bad value for orbit.charge[77][]: nan
+! Bad value for orbit.charge[78][]: nan
+! Bad value for orbit.charge[79][]: nan
+! Bad value for orbit.charge[80][]: nan
+! Bad value for orbit.charge[81][]: nan
+! Bad value for orbit.charge[82][]: nan
+! Bad value for orbit.charge[83][]: nan
+! Bad value for orbit.charge[84][]: nan
+! Bad value for orbit.charge[85][]: nan
+! Bad value for orbit.charge[86][]: nan
+! Bad value for orbit.charge[87][]: nan
+! Bad value for orbit.charge[88][]: nan
+! Bad value for orbit.charge[89][]: nan
+! Bad value for orbit.charge[90][]: nan
+! Bad value for orbit.charge[91][]: nan
+! Bad value for orbit.charge[92][]: nan
+! Bad value for orbit.charge[93][]: nan
+! Bad value for orbit.charge[94][]: nan
+! Bad value for orbit.charge[95][]: nan
+! Bad value for orbit.charge[96][]: nan
+! Bad value for orbit.charge[97][]: nan
+! Bad value for orbit.charge[98][]: nan
+! Bad value for orbit.charge[99][]: nan
+! Bad value for orbit.charge[100][]: nan
+! Bad value for orbit.charge[101][]: nan
+! Bad value for orbit.charge[102][]: nan
+! Bad value for orbit.charge[103][]: nan
+! Bad value for orbit.charge[104][]: nan
+! Bad value for orbit.charge[105][]: nan
+! Bad value for orbit.charge[106][]: nan
+! Bad value for orbit.charge[107][]: nan
+! Bad value for orbit.charge[108][]: nan
+! Bad value for orbit.charge[109][]: nan
+! Bad value for orbit.charge[110][]: nan
+! Bad value for orbit.charge[111][]: nan
+! Bad value for orbit.charge[112][]: nan
+! Bad value for orbit.charge[113][]: nan
+! Bad value for orbit.charge[114][]: nan
+! Bad value for orbit.charge[115][]: nan
+! Bad value for orbit.charge[116][]: nan
+! Bad value for orbit.charge[117][]: nan
+! Bad value for orbit.charge[118][]: nan
+! Bad value for orbit.charge[119][]: nan
+! Bad value for orbit.charge[120][]: nan
+! Bad value for orbit.charge[121][]: nan
+! Bad value for orbit.charge[122][]: nan
+! Bad value for orbit.charge[123][]: nan
+! Bad value for orbit.charge[124][]: nan
+! Bad value for orbit.charge[125][]: nan
+! Bad value for orbit.charge[126][]: nan
+! Bad value for orbit.charge[127][]: nan
+set ele CAVL011 phi0 = 0.0027777778 * -5.000985844037403
+set ele CAVL012 phi0 = 0.0027777778 * -30.619526939629168
+set ele CAVL013 phi0 = 0.0027777778 * -3.999428678838916
+set ele CAVL014 phi0 = 0.0027777778 * -7.701151491262912
+set ele CAVL015 phi0 = 0.0027777778 * -0.0008422122617927075
+set ele CAVL016 phi0 = 0.0027777778 * 0.00011674882334589132
+set ele CAVL017 phi0 = 0.0027777778 * 0.00036095756870943574
+set ele CAVL018 phi0 = 0.0027777778 * -20.001313423241665
+set ele CAVL021 phi0 = 0.0027777778 * -21.583512466531705
+set ele CAVL022 phi0 = 0.0027777778 * -21.584045291580967
+set ele CAVL023 phi0 = 0.0027777778 * -21.58366403159324
+set ele CAVL024 phi0 = 0.0027777778 * -21.583042921139587
+set ele CAVL025 phi0 = 0.0027777778 * -21.58309820106357
+set ele CAVL026 phi0 = 0.0027777778 * -21.58404790734398
+set ele CAVL027 phi0 = 0.0027777778 * 5.053208374258949
+set ele CAVL028 phi0 = 0.0027777778 * 5.0536554092258745
+set ele CAVL031 phi0 = 0.0027777778 * 5.0528873102734435
+set ele CAVL032 phi0 = 0.0027777778 * 5.05252459595175
+set ele CAVL033 phi0 = 0.0027777778 * 5.054206541410807
+set ele CAVL034 phi0 = 0.0027777778 * -48.22173152598425
+set ele CAVL035 phi0 = 0.0027777778 * -48.21991489408528
+set ele CAVL036 phi0 = 0.0027777778 * -48.220757694598845
+set ele CAVL037 phi0 = 0.0027777778 * -48.21991971218398
+set ele CAVL038 phi0 = 0.0027777778 * -48.2206415384009
+set ele CAVC011 phi0 = 0.0027777778 * -170.00099250250213
+set ele CAVC012 phi0 = 0.0027777778 * -170.00044694023418
+set ele CAVC013 phi0 = 0.0027777778 * -169.9999042179688
+set ele CAVC014 phi0 = 0.0027777778 * -170.00005447060954
+set ele CAVC015 phi0 = 0.0027777778 * -170.0005299258684
+set ele CAVC016 phi0 = 0.0027777778 * -169.9998159150003
+set ele CAVC017 phi0 = 0.0027777778 * -170.00081131376962
+set ele CAVC018 phi0 = 0.0027777778 * -170.0011991009956
+set ele CAVC021 phi0 = 0.0027777778 * -169.9999478206188
+set ele CAVC022 phi0 = 0.0027777778 * -169.99992720555403
+set ele CAVC023 phi0 = 0.0027777778 * -170.00053273411788
+set ele CAVC024 phi0 = 0.0027777778 * -170.00124666431603
+set ele CAVC025 phi0 = 0.0027777778 * -170.00086461922206
+set ele CAVC026 phi0 = 0.0027777778 * -170.00049428189865
+set ele CAVC027 phi0 = 0.0027777778 * -169.9997601058376
+set ele CAVC028 phi0 = 0.0027777778 * -169.99955842541283
+set ele CAVL041 phi0 = 0.0027777778 * -21.522326851030012
+set ele CAVL042 phi0 = 0.0027777778 * -21.521610501748793
+set ele CAVL043 phi0 = 0.0027777778 * -21.52156581404403
+set ele CAVL044 phi0 = 0.0027777778 * -21.520812344483375
+set ele CAVL045 phi0 = 0.0027777778 * -21.52188203781923
+set ele CAVL046 phi0 = 0.0027777778 * -21.522025715640083
+set ele CAVL047 phi0 = 0.0027777778 * 81.46745027907458
+set ele CAVL048 phi0 = 0.0027777778 * -21.521646411876667
+set ele CAVL051 phi0 = 0.0027777778 * -21.521742396193766
+set ele CAVL052 phi0 = 0.0027777778 * -21.521639779437876
+set ele CAVL053 phi0 = 0.0027777778 * -21.521368319551193
+set ele CAVL054 phi0 = 0.0027777778 * -21.521722534362446
+set ele CAVL055 phi0 = 0.0027777778 * -21.521439069666876
+set ele CAVL056 phi0 = 0.0027777778 * -21.521263869005434
+set ele CAVL057 phi0 = 0.0027777778 * -21.521761995147795
+set ele CAVL058 phi0 = 0.0027777778 * -18.849847680860595
+set ele CAVL061 phi0 = 0.0027777778 * -21.521154625608503
+set ele CAVL062 phi0 = 0.0027777778 * -21.521200298318547
+set ele CAVL063 phi0 = 0.0027777778 * -21.522116293451926
+set ele CAVL064 phi0 = 0.0027777778 * -21.521630505731355
+set ele CAVL065 phi0 = 0.0027777778 * -21.521768234563392
+set ele CAVL066 phi0 = 0.0027777778 * -21.521968891346862
+set ele CAVL067 phi0 = 0.0027777778 * -21.5220159418902
+set ele CAVL068 phi0 = 0.0027777778 * -21.521957698713305
+set ele CAVL071 phi0 = 0.0027777778 * -21.52157386305595
+set ele CAVL072 phi0 = 0.0027777778 * -21.52185461029441
+set ele CAVL073 phi0 = 0.0027777778 * -11.017577588957392
+set ele CAVL074 phi0 = 0.0027777778 * -72.11874184842124
+set ele CAVL075 phi0 = 0.0027777778 * -21.521198289545076
+set ele CAVL076 phi0 = 0.0027777778 * -21.52165902677924
+set ele CAVL077 phi0 = 0.0027777778 * -21.52146819953061
+set ele CAVL078 phi0 = 0.0027777778 * -21.521747635179644
+set ele CAVL081 phi0 = 0.0027777778 * -3.920585618630576
+set ele CAVL082 phi0 = 0.0027777778 * -3.920703745700489
+set ele CAVL083 phi0 = 0.0027777778 * -3.9205404493182447
+set ele CAVL084 phi0 = 0.0027777778 * -3.919657150392426
+set ele CAVL085 phi0 = 0.0027777778 * -3.9201379988898015
+set ele CAVL086 phi0 = 0.0027777778 * -3.9209669787934645
+set ele CAVL087 phi0 = 0.0027777778 * -3.9201818798958716
+set ele CAVL088 phi0 = 0.0027777778 * -3.9201919879230216
+set ele CAVL091 phi0 = 0.0027777778 * -3.9208086017030968
+set ele CAVL092 phi0 = 0.0027777778 * -3.9200881038982427
+set ele CAVL093 phi0 = 0.0027777778 * -15.077010589823582
+set ele CAVL094 phi0 = 0.0027777778 * -3.920329428197526
+set ele CAVL095 phi0 = 0.0027777778 * -3.9211426724555265
+set ele CAVL096 phi0 = 0.0027777778 * -3.920430049375251
+set ele CAVL097 phi0 = 0.0027777778 * -3.9202243137036796
+set ele CAVL098 phi0 = 0.0027777778 * -133.16743628481734
+set ele CAVL101 phi0 = 0.0027777778 * -3.9201234620431493
+set ele CAVL102 phi0 = 0.0027777778 * -3.9209274109598855
+set ele CAVL103 phi0 = 0.0027777778 * -3.920039560482473
+set ele CAVL104 phi0 = 0.0027777778 * -3.9199245077525564
+set ele CAVL105 phi0 = 0.0027777778 * -3.9207055698613633
+set ele CAVL106 phi0 = 0.0027777778 * -100.11344472955913
+set ele CAVL107 phi0 = 0.0027777778 * -3.920880774503243
+set ele CAVL108 phi0 = 0.0027777778 * -3.9208737083803094
+set ele CAVL111 phi0 = 0.0027777778 * -3.9209177733477563
+set ele CAVL112 phi0 = 0.0027777778 * -3.9200432701252477
+set ele CAVL113 phi0 = 0.0027777778 * -3.92100246843283
+set ele CAVL114 phi0 = 0.0027777778 * -3.9209548528474296
+set ele CAVL115 phi0 = 0.0027777778 * -3.919920713018768
+set ele CAVL116 phi0 = 0.0027777778 * -3.921159158964958
+set ele CAVL117 phi0 = 0.0027777778 * -3.920926607801552
+set ele CAVL118 phi0 = 0.0027777778 * -3.9202424181284754
+set ele CAVL121 phi0 = 0.0027777778 * 47.0546549015742
+set ele CAVL122 phi0 = 0.0027777778 * -39.12262393647536
+set ele CAVL123 phi0 = 0.0027777778 * -39.12338027426719
+set ele CAVL124 phi0 = 0.0027777778 * -39.1229350120222
+set ele CAVL125 phi0 = 0.0027777778 * -39.12211281431971
+set ele CAVL126 phi0 = 0.0027777778 * -39.12272649434419
+set ele CAVL127 phi0 = 0.0027777778 * -39.12265912599623
+set ele CAVL128 phi0 = 0.0027777778 * -39.1226666248782
+set ele CAVL131 phi0 = 0.0027777778 * -39.122901412513784
+set ele CAVL132 phi0 = 0.0027777778 * -39.12229849948445
+set ele CAVL133 phi0 = 0.0027777778 * -39.12291864127449
+set ele CAVL134 phi0 = 0.0027777778 * -39.12204480190327
+set ele CAVL135 phi0 = 0.0027777778 * -39.12222095507443
+set ele CAVL136 phi0 = 0.0027777778 * -39.12213682464585
+set ele CAVL137 phi0 = 0.0027777778 * -39.12299519927035
+set ele CAVL138 phi0 = 0.0027777778 * -39.123181007891496
+set ele CAVL141 phi0 = 0.0027777778 * -39.122309876501674
+set ele CAVL142 phi0 = 0.0027777778 * -39.122570973070005
+set ele CAVL143 phi0 = 0.0027777778 * -39.1220607438039
+set ele CAVL144 phi0 = 0.0027777778 * -39.12269908999763
+set ele CAVL145 phi0 = 0.0027777778 * -39.121781133237526
+set ele CAVL146 phi0 = 0.0027777778 * -39.12259938446901
+set ele CAVL147 phi0 = 0.0027777778 * -39.12330254756086
+set ele CAVL148 phi0 = 0.0027777778 * -39.122360226073546
+set ele CAVL151 phi0 = 0.0027777778 * 21.078465989555834
+set ele CAVL152 phi0 = 0.0027777778 * -39.12284182192141
+set ele CAVL153 phi0 = 0.0027777778 * -39.123034228658675
+set ele CAVL154 phi0 = 0.0027777778 * -39.122364851845674
+set ele CAVL155 phi0 = 0.0027777778 * -39.12296967779808
+set ele CAVL156 phi0 = 0.0027777778 * -39.1222820941756
+set ele CAVL157 phi0 = 0.0027777778 * -9.050739375676113
+set ele CAVL158 phi0 = 0.0027777778 * -39.12196339589298
+set ele CAVL161 phi0 = 0.0027777778 * -0.0007543939737935223
+set ele CAVL162 phi0 = 0.0027777778 * -0.0005692176800475568
+set ele CAVL163 phi0 = 0.0027777778 * -0.00018913556140593563
+set ele CAVL164 phi0 = 0.0027777778 * -0.00041719889096488577
+set ele CAVL165 phi0 = 0.0027777778 * -0.000332894371242648
+set ele CAVL166 phi0 = 0.0027777778 * 0.0002973946992211596
+set ele CAVL167 phi0 = 0.0027777778 * -0.0003281077276257871
+set ele CAVL168 phi0 = 0.0027777778 * 0.00010568286074791322
+set ele CAVL171 phi0 = 0.0027777778 * -0.00020243802158377913
+set ele CAVL172 phi0 = 0.0027777778 * -0.0006499663352496146
+set ele CAVL173 phi0 = 0.0027777778 * -0.0004884294571115
+set ele CAVL174 phi0 = 0.0027777778 * -0.0006942080859765995
+set ele CAVL175 phi0 = 0.0027777778 * -0.0005618135568158725
+set ele CAVL176 phi0 = 0.0027777778 * 1.8575784999724787e-05
+set ele CAVL177 phi0 = 0.0027777778 * -0.00041008576723700063
+set ele CAVL178 phi0 = 0.0027777778 * -67.85139084778226
+set ele CAVL181 phi0 = 0.0027777778 * -0.0010371577378054879
+set ele CAVL182 phi0 = 0.0027777778 * -0.0006822675669179851
+set ele CAVL183 phi0 = 0.0027777778 * -0.000811528366737431
+set ele CAVL184 phi0 = 0.0027777778 * 0.0004625618406762788
+set ele CAVL185 phi0 = 0.0027777778 * -0.00024794418174245436
+set ele CAVL186 phi0 = 0.0027777778 * -0.0009399592788837119
+set ele CAVL187 phi0 = 0.0027777778 * -0.0009107703834806088
+set ele CAVL188 phi0 = 0.0027777778 * -0.0009754809085017781
+set ele CAVL191 phi0 = 0.0027777778 * 0.0005059453657898089
+set ele CAVL192 phi0 = 0.0027777778 * -0.0008242312906873682
+set ele CAVL193 phi0 = 0.0027777778 * -0.0003898126937147417
+set ele CAVL194 phi0 = 0.0027777778 * -0.0008900150966379347
+set ele CAVL195 phi0 = 0.0027777778 * -0.0007978698197664454
+set ele CAVL196 phi0 = 0.0027777778 * -0.0004268517186248738
+set ele CAVL197 phi0 = 0.0027777778 * 0.0005519814540786427
+set ele CAVL198 phi0 = 0.0027777778 * 0.0008944146033349476
+set ele CAVL201 phi0 = 0.0027777778 * -9.77505291552272e-06
+set ele CAVL202 phi0 = 0.0027777778 * -0.0010988348152300847
+set ele CAVL203 phi0 = 0.0027777778 * 2.171358746166918e-05
+set ele CAVL204 phi0 = 0.0027777778 * -0.00033325981284879763
+set ele CAVL205 phi0 = 0.0027777778 * -0.00040414394152829547
+set ele CAVL206 phi0 = 0.0027777778 * 8.184125859498487e-05
+set ele CAVL207 phi0 = 0.0027777778 * -0.0009546251438762483
+set ele CAVL208 phi0 = 0.0027777778 * -0.00040762486123366304
+set ele CAVL211 phi0 = 0.0027777778 * -0.00039945847851785565
+set ele CAVL212 phi0 = 0.0027777778 * -0.00032304872653090774
+set ele CAVL213 phi0 = 0.0027777778 * -0.00010545336340451322
+set ele CAVL214 phi0 = 0.0027777778 * -0.00026799894978912775
+set ele CAVL215 phi0 = 0.0027777778 * 4.790996432823755e-05
+set ele CAVL216 phi0 = 0.0027777778 * -0.0005668327873584803
+set ele CAVL217 phi0 = 0.0027777778 * -0.0008233877416745083
+set ele CAVL218 phi0 = 0.0027777778 * -0.000577475990487312
+set ele CAVL221 phi0 = 0.0027777778 * 0.0005705722423012816
+set ele CAVL222 phi0 = 0.0027777778 * 7.973697157681592e-05
+set ele CAVL223 phi0 = 0.0027777778 * -0.0006498718842218587
+set ele CAVL224 phi0 = 0.0027777778 * -0.0004662281990682471
+set ele CAVL225 phi0 = 0.0027777778 * 0.0002058281389658856
+set ele CAVL226 phi0 = 0.0027777778 * -0.0001589672949069143
+set ele CAVL227 phi0 = 0.0027777778 * -0.000586619564813512
+set ele CAVL228 phi0 = 0.0027777778 * -0.00010518944733968472
+set ele CAVL231 phi0 = 0.0027777778 * 2.0439653801843094e-05
+set ele CAVL232 phi0 = 0.0027777778 * -5.0672474940255396e-05
+set ele CAVL233 phi0 = 0.0027777778 * 3.30513081481798e-05
+set ele CAVL234 phi0 = 0.0027777778 * -0.0010355796088080474
+set ele CAVL235 phi0 = 0.0027777778 * -0.000591345449262759
+set ele CAVL236 phi0 = 0.0027777778 * -0.0006798918208529518
+set ele CAVL237 phi0 = 0.0027777778 * -0.0006334126574460142
+set ele CAVL238 phi0 = 0.0027777778 * 8.291957662632013
+set ele CAVL241 phi0 = 0.0027777778 * -31.231434419474216
+set ele CAVL242 phi0 = 0.0027777778 * -31.2314786188978
+set ele CAVL243 phi0 = 0.0027777778 * -31.230783468080787
+set ele CAVL244 phi0 = 0.0027777778 * -31.231232514672183
+set ele CAVL245 phi0 = 0.0027777778 * -31.232702250008835
+set ele CAVL246 phi0 = 0.0027777778 * -31.232068860901023
+set ele CAVL247 phi0 = 0.0027777778 * -31.231990219178524
+set ele CAVL248 phi0 = 0.0027777778 * -31.230807657593328
+set ele CAVL251 phi0 = 0.0027777778 * -31.23164738494467
+set ele CAVL252 phi0 = 0.0027777778 * 34.9008325813803
+set ele CAVL253 phi0 = 0.0027777778 * -31.23108691824031
+set ele CAVL254 phi0 = 0.0027777778 * -31.231202164974988
+set ele CAVL255 phi0 = 0.0027777778 * -31.23206304350265
+set ele CAVL256 phi0 = 0.0027777778 * -31.231563107052644
+set ele CAVL257 phi0 = 0.0027777778 * -31.231253556915608
+set ele CAVL258 phi0 = 0.0027777778 * -31.231943158047297
+set ele CAVL261 phi0 = 0.0027777778 * -31.23158142646426
+set ele CAVL262 phi0 = 0.0027777778 * -31.230951259625712
+set ele CAVL263 phi0 = 0.0027777778 * -31.23126162132682
+set ele CAVL264 phi0 = 0.0027777778 * -31.230798788655054
+set ele CAVL265 phi0 = 0.0027777778 * -31.230921591725988
+set ele CAVL266 phi0 = 0.0027777778 * -31.231082281776832
+set ele CAVL267 phi0 = 0.0027777778 * -31.230814242934322
+set ele CAVL268 phi0 = 0.0027777778 * -172.31935007898667
+set ele CAVL271 phi0 = 0.0027777778 * -31.231128991529864
+set ele CAVL272 phi0 = 0.0027777778 * -31.231517181428426
+set ele CAVL273 phi0 = 0.0027777778 * -31.231689200301176
+set ele CAVL274 phi0 = 0.0027777778 * -31.231759519952107
+set ele CAVL275 phi0 = 0.0027777778 * -31.231341112886657
+set ele CAVL276 phi0 = 0.0027777778 * -31.23187661174486
+set ele CAVL277 phi0 = 0.0027777778 * -31.23184154040814
+set ele CAVL278 phi0 = 0.0027777778 * -31.23152505792962
+set ele CAVL281 phi0 = 0.0027777778 * 169.2258854961975
+set ele CAVL282 phi0 = 0.0027777778 * -31.231075795690217
+set ele CAVL283 phi0 = 0.0027777778 * -31.231396585409886
+set ele CAVL284 phi0 = 0.0027777778 * -31.23133260601748
+set ele CAVL285 phi0 = 0.0027777778 * -31.231849930513626
+set ele CAVL286 phi0 = 0.0027777778 * -31.231704402100227
+set ele CAVL287 phi0 = 0.0027777778 * -31.2316804132425
+set ele CAVL288 phi0 = 0.0027777778 * 11.961625422397278
+set ele CAVL291 phi0 = 0.0027777778 * -31.231669009426625
+set ele CAVL292 phi0 = 0.0027777778 * -31.230807084778654
+set ele CAVL293 phi0 = 0.0027777778 * -31.231370379326467
+set ele CAVL294 phi0 = 0.0027777778 * -31.232255564087307
+set ele CAVL295 phi0 = 0.0027777778 * -31.231112769847336
+set ele CAVL296 phi0 = 0.0027777778 * -31.231491996752244
+set ele CAVL297 phi0 = 0.0027777778 * -31.231022825879453
+set ele CAVL298 phi0 = 0.0027777778 * -31.23076400429325
+set ele CAVL301 phi0 = 0.0027777778 * 31.231186810443795
+set ele CAVL302 phi0 = 0.0027777778 * 31.23029771530026
+set ele CAVL303 phi0 = 0.0027777778 * 31.23116510273816
+set ele CAVL304 phi0 = 0.0027777778 * 31.230569513798535
+set ele CAVL305 phi0 = 0.0027777778 * 31.22993284560886
+set ele CAVL306 phi0 = 0.0027777778 * 31.230124073831217
+set ele CAVL307 phi0 = 0.0027777778 * 31.22969259031594
+set ele CAVL308 phi0 = 0.0027777778 * 31.23108719662984
+set ele CAVL311 phi0 = 0.0027777778 * 31.230912539456373
+set ele CAVL312 phi0 = 0.0027777778 * 31.230662440871356
+set ele CAVL313 phi0 = 0.0027777778 * 31.23038144687431
+set ele CAVL314 phi0 = 0.0027777778 * 31.230144180003936
+set ele CAVL315 phi0 = 0.0027777778 * 31.23070299104698
+set ele CAVL316 phi0 = 0.0027777778 * 31.230794912560246
+set ele CAVL317 phi0 = 0.0027777778 * 31.23064714981886
+set ele CAVL318 phi0 = 0.0027777778 * 31.230690071654184
+set ele CAVL321 phi0 = 0.0027777778 * 31.230407415668612
+set ele CAVL322 phi0 = 0.0027777778 * 31.230771225142945
+set ele CAVL323 phi0 = 0.0027777778 * 31.231575752814297
+set ele CAVL324 phi0 = 0.0027777778 * 31.23119834801351
+set ele CAVL325 phi0 = 0.0027777778 * 31.230650418822826
+set ele CAVL326 phi0 = 0.0027777778 * 31.23133334759171
+set ele CAVL327 phi0 = 0.0027777778 * 31.230401571486773
+set ele CAVL328 phi0 = 0.0027777778 * 31.23084763840454
+set ele CAVL331 phi0 = 0.0027777778 * 31.230037529305946
+set ele CAVL332 phi0 = 0.0027777778 * 31.230917940955003
+set ele CAVL333 phi0 = 0.0027777778 * 31.23112951974113
+set ele CAVL334 phi0 = 0.0027777778 * 31.230656552772743
+set ele CAVL335 phi0 = 0.0027777778 * 31.230482795633584
+set ele CAVL336 phi0 = 0.0027777778 * 31.231862536706235
+set ele CAVL337 phi0 = 0.0027777778 * 31.23052172806024
+set ele CAVL338 phi0 = 0.0027777778 * -116.49328081284278
+set ele CAVL341 phi0 = 0.0027777778 * 31.230656058520683
+set ele CAVL342 phi0 = 0.0027777778 * 31.23116460855926
+set ele CAVL343 phi0 = 0.0027777778 * 31.231056842851277
+set ele CAVL344 phi0 = 0.0027777778 * 31.231223072025458
+set ele CAVL345 phi0 = 0.0027777778 * 31.230764195003346
+set ele CAVL346 phi0 = 0.0027777778 * 31.230575376037287
+set ele CAVL347 phi0 = 0.0027777778 * 31.230542964913635
+set ele CAVL348 phi0 = 0.0027777778 * 31.230020274805504
+set ele CAVL351 phi0 = 0.0027777778 * 31.23045706447372
+set ele CAVL352 phi0 = 0.0027777778 * 31.230749346635374
+set ele CAVL353 phi0 = 0.0027777778 * 105.97771375284924
+set ele CAVL354 phi0 = 0.0027777778 * 131.14152977949917
+set ele CAVL355 phi0 = 0.0027777778 * -0.573600832703859
+set ele CAVL356 phi0 = 0.0027777778 * 17.78253303124645
+set ele CAVL357 phi0 = 0.0027777778 * -7.144041874252516
+set ele CAVL358 phi0 = 0.0027777778 * -144.76400982913773
+! Bad value for BUN1B[phi0]: nan
+set ele CAVL011 voltage = 1000000.0 * 6.5089975136709715
+set ele CAVL012 voltage = 1000000.0 * 0.0012370141986998843
+set ele CAVL013 voltage = 1000000.0 * 6.508944240391182
+set ele CAVL014 voltage = 1000000.0 * 13.017963993920494
+set ele CAVL015 voltage = 1000000.0 * 13.518831494779848
+set ele CAVL016 voltage = 1000000.0 * 13.518991234425703
+set ele CAVL017 voltage = 1000000.0 * 14.019528216336466
+set ele CAVL018 voltage = 1000000.0 * 13.51883167112988
+set ele CAVL021 voltage = 1000000.0 * 17.024066323022673
+set ele CAVL022 voltage = 1000000.0 * 17.023831036473037
+set ele CAVL023 voltage = 1000000.0 * 17.0238318532866
+set ele CAVL024 voltage = 1000000.0 * 17.023846912627004
+set ele CAVL025 voltage = 1000000.0 * 17.023620930259757
+set ele CAVL026 voltage = 1000000.0 * 17.023727106052245
+set ele CAVL027 voltage = 1000000.0 * 16.523099684700767
+set ele CAVL028 voltage = 1000000.0 * 13.01808545707588
+set ele CAVL031 voltage = 1000000.0 * 15.020947285841533
+set ele CAVL032 voltage = 1000000.0 * 12.817792197431604
+set ele CAVL033 voltage = 1000000.0 * 17.023780935732674
+set ele CAVL034 voltage = 1000000.0 * 17.02372279826428
+set ele CAVL035 voltage = 1000000.0 * 15.6217814121138
+set ele CAVL036 voltage = 1000000.0 * 17.023905466905227
+set ele CAVL037 voltage = 1000000.0 * 17.023697472091662
+set ele CAVL038 voltage = 1000000.0 * 15.621790832571389
+set ele CAVC011 voltage = 1000000.0 * 3.9756166521203653
+set ele CAVC012 voltage = 1000000.0 * 2.002798835216084
+set ele CAVC013 voltage = 1000000.0 * 3.9755668765981094
+set ele CAVC014 voltage = 1000000.0 * 3.975514980670858
+set ele CAVC015 voltage = 1000000.0 * 4.075675815038202
+set ele CAVC016 voltage = 1000000.0 * 3.975552765820517
+set ele CAVC017 voltage = 1000000.0 * 4.075687011855527
+set ele CAVC018 voltage = 1000000.0 * 3.975575601933518
+set ele CAVC021 voltage = 1000000.0 * 4.506316310112774
+set ele CAVC022 voltage = 1000000.0 * 4.506244889066554
+set ele CAVC023 voltage = 1000000.0 * 4.506203355391949
+set ele CAVC024 voltage = 1000000.0 * 4.506183877788113
+set ele CAVC025 voltage = 1000000.0 * 4.376111618825965
+set ele CAVC026 voltage = 1000000.0 * 1.4560569439909679
+set ele CAVC027 voltage = 1000000.0 * 4.406043917253331
+set ele CAVC028 voltage = 1000000.0 * 1.7023574541928612
+set ele CAVL041 voltage = 1000000.0 * 17.02382845639349
+set ele CAVL042 voltage = 1000000.0 * 17.023910936199638
+set ele CAVL043 voltage = 1000000.0 * 17.02390672393637
+set ele CAVL044 voltage = 1000000.0 * 17.023922339277995
+set ele CAVL045 voltage = 1000000.0 * 17.023791826874586
+set ele CAVL046 voltage = 1000000.0 * 17.02396178438222
+set ele CAVL047 voltage = 1000000.0 * 0.003812395203091116
+set ele CAVL048 voltage = 1000000.0 * 16.623383710685257
+set ele CAVL051 voltage = 1000000.0 * 17.023861457822928
+set ele CAVL052 voltage = 1000000.0 * 17.023892054449462
+set ele CAVL053 voltage = 1000000.0 * 17.023886720527326
+set ele CAVL054 voltage = 1000000.0 * 14.520269767429204
+set ele CAVL055 voltage = 1000000.0 * 17.023887362905914
+set ele CAVL056 voltage = 1000000.0 * 17.02384482999391
+set ele CAVL057 voltage = 1000000.0 * 17.023821273796056
+set ele CAVL058 voltage = 1000000.0 * 0.006436891050983293
+set ele CAVL061 voltage = 1000000.0 * 17.023903486765608
+set ele CAVL062 voltage = 1000000.0 * 17.023719309145285
+set ele CAVL063 voltage = 1000000.0 * 16.72328744720959
+set ele CAVL064 voltage = 1000000.0 * 17.023892265747037
+set ele CAVL065 voltage = 1000000.0 * 17.023948423160686
+set ele CAVL066 voltage = 1000000.0 * 16.022500503614204
+set ele CAVL067 voltage = 1000000.0 * 16.22256551489414
+set ele CAVL068 voltage = 1000000.0 * 16.122502993155454
+set ele CAVL071 voltage = 1000000.0 * 16.62322120331945
+set ele CAVL072 voltage = 1000000.0 * 17.023846202994623
+set ele CAVL073 voltage = 1000000.0 * 0.0019437867833562996
+set ele CAVL074 voltage = 1000000.0 * 0.0010133414782757615
+set ele CAVL075 voltage = 1000000.0 * 17.023682322504737
+set ele CAVL076 voltage = 1000000.0 * 17.023873177149465
+set ele CAVL077 voltage = 1000000.0 * 17.023751060400183
+set ele CAVL078 voltage = 1000000.0 * 17.02352310953923
+set ele CAVL081 voltage = 1000000.0 * 16.022520305210023
+set ele CAVL082 voltage = 1000000.0 * 17.023834575085733
+set ele CAVL083 voltage = 1000000.0 * 15.521743294330982
+set ele CAVL084 voltage = 1000000.0 * 17.023950317489504
+set ele CAVL085 voltage = 1000000.0 * 16.723370347049894
+set ele CAVL086 voltage = 1000000.0 * 14.72050437394996
+set ele CAVL087 voltage = 1000000.0 * 17.02378804375563
+set ele CAVL088 voltage = 1000000.0 * 17.023826721690817
+set ele CAVL091 voltage = 1000000.0 * 17.023841607523735
+set ele CAVL092 voltage = 1000000.0 * 16.623355997504873
+set ele CAVL093 voltage = 1000000.0 * 0.0014254074359514631
+set ele CAVL094 voltage = 1000000.0 * 11.315835043978531
+set ele CAVL095 voltage = 1000000.0 * 17.011413405041434
+set ele CAVL096 voltage = 1000000.0 * 12.016731923854886
+set ele CAVL097 voltage = 1000000.0 * 11.516058102416254
+set ele CAVL098 voltage = 1000000.0 * 0.003247442557916908
+set ele CAVL101 voltage = 1000000.0 * 17.023799625990474
+set ele CAVL102 voltage = 1000000.0 * 13.919389540965028
+set ele CAVL103 voltage = 1000000.0 * 17.023879654853634
+set ele CAVL104 voltage = 1000000.0 * 17.023933870984127
+set ele CAVL105 voltage = 1000000.0 * 16.42296295009142
+set ele CAVL106 voltage = 1000000.0 * 0.00040177607780188197
+set ele CAVL107 voltage = 1000000.0 * 17.0238800492316
+set ele CAVL108 voltage = 1000000.0 * 17.023929340210515
+set ele CAVL111 voltage = 1000000.0 * 17.023935326223686
+set ele CAVL112 voltage = 1000000.0 * 17.02390102086014
+set ele CAVL113 voltage = 1000000.0 * 17.023840535382238
+set ele CAVL114 voltage = 1000000.0 * 17.023928515757593
+set ele CAVL115 voltage = 1000000.0 * 16.6233841177802
+set ele CAVL116 voltage = 1000000.0 * 17.023800105907895
+set ele CAVL117 voltage = 1000000.0 * 17.023820238882887
+set ele CAVL118 voltage = 1000000.0 * 16.022526495031258
+set ele CAVL121 voltage = 1000000.0 * 0.000970783229011103
+set ele CAVL122 voltage = 1000000.0 * 17.023894801032075
+set ele CAVL123 voltage = 1000000.0 * 11.516199662415165
+set ele CAVL124 voltage = 1000000.0 * 17.023548343714335
+set ele CAVL125 voltage = 1000000.0 * 17.023890513895715
+set ele CAVL126 voltage = 1000000.0 * 17.024055144480467
+set ele CAVL127 voltage = 1000000.0 * 17.023888221513165
+set ele CAVL128 voltage = 1000000.0 * 17.023801645280123
+set ele CAVL131 voltage = 1000000.0 * 17.023783389362695
+set ele CAVL132 voltage = 1000000.0 * 17.023707214840815
+set ele CAVL133 voltage = 1000000.0 * 17.023709191571342
+set ele CAVL134 voltage = 1000000.0 * 17.023675317004678
+set ele CAVL135 voltage = 1000000.0 * 17.023832060218595
+set ele CAVL136 voltage = 1000000.0 * 17.023867815601783
+set ele CAVL137 voltage = 1000000.0 * 17.02381731181355
+set ele CAVL138 voltage = 1000000.0 * 16.523099944621293
+set ele CAVL141 voltage = 1000000.0 * 12.016677595147039
+set ele CAVL142 voltage = 1000000.0 * 16.623291718594423
+set ele CAVL143 voltage = 1000000.0 * 17.023798924108643
+set ele CAVL144 voltage = 1000000.0 * 17.023840721079058
+set ele CAVL145 voltage = 1000000.0 * 17.02389034118444
+set ele CAVL146 voltage = 1000000.0 * 17.023949549701243
+set ele CAVL147 voltage = 1000000.0 * 17.02383325687906
+set ele CAVL148 voltage = 1000000.0 * 13.71929857263616
+set ele CAVL151 voltage = 1000000.0 * 0.038922416127475136
+set ele CAVL152 voltage = 1000000.0 * 16.62307005529557
+set ele CAVL153 voltage = 1000000.0 * 16.62327171317505
+set ele CAVL154 voltage = 1000000.0 * 17.023626486005742
+set ele CAVL155 voltage = 1000000.0 * 10.714956488933845
+set ele CAVL156 voltage = 1000000.0 * 14.520441538772163
+set ele CAVL157 voltage = 1000000.0 * 0.0017964994625382662
+set ele CAVL158 voltage = 1000000.0 * 17.024145812485468
+set ele CAVL161 voltage = 1000000.0 * 16.608350602277255
+set ele CAVL162 voltage = 1000000.0 * 16.623236932845423
+set ele CAVL163 voltage = 1000000.0 * 16.62329546188903
+set ele CAVL164 voltage = 1000000.0 * 16.608484792725392
+set ele CAVL165 voltage = 1000000.0 * 16.608408568576255
+set ele CAVL166 voltage = 1000000.0 * 16.623297781367555
+set ele CAVL167 voltage = 1000000.0 * 16.608438121283516
+set ele CAVL168 voltage = 1000000.0 * 16.011537075592415
+set ele CAVL171 voltage = 1000000.0 * 14.244923558760593
+set ele CAVL172 voltage = 1000000.0 * 14.244879539669867
+set ele CAVL173 voltage = 1000000.0 * 14.244866768993184
+set ele CAVL174 voltage = 1000000.0 * 14.244982002321139
+set ele CAVL175 voltage = 1000000.0 * 14.244834302360717
+set ele CAVL176 voltage = 1000000.0 * 14.24496861124456
+set ele CAVL177 voltage = 1000000.0 * 14.244868227971706
+set ele CAVL178 voltage = 1000000.0 * 0.004972061540148026
+set ele CAVL181 voltage = 1000000.0 * 16.016620927112815
+set ele CAVL182 voltage = 1000000.0 * 15.51620788224029
+set ele CAVL183 voltage = 1000000.0 * 16.61687289501256
+set ele CAVL184 voltage = 1000000.0 * 16.616869246862493
+set ele CAVL185 voltage = 1000000.0 * 16.61676434558033
+set ele CAVL186 voltage = 1000000.0 * 10.511641146987968
+set ele CAVL187 voltage = 1000000.0 * 16.616393286544998
+set ele CAVL188 voltage = 1000000.0 * 16.616528592180362
+set ele CAVL191 voltage = 1000000.0 * 12.013505429119054
+set ele CAVL192 voltage = 1000000.0 * 12.0134977057055
+set ele CAVL193 voltage = 1000000.0 * 8.511961274600097
+set ele CAVL194 voltage = 1000000.0 * 16.616361619799765
+set ele CAVL195 voltage = 1000000.0 * 16.616353381730498
+set ele CAVL196 voltage = 1000000.0 * 16.616291606948767
+set ele CAVL197 voltage = 1000000.0 * 16.616162892207118
+set ele CAVL198 voltage = 1000000.0 * 7.007472223409679
+set ele CAVL201 voltage = 1000000.0 * 16.62355887697894
+set ele CAVL202 voltage = 1000000.0 * 16.62341684667446
+set ele CAVL203 voltage = 1000000.0 * 16.613498324651484
+set ele CAVL204 voltage = 1000000.0 * 16.613545962066585
+set ele CAVL205 voltage = 1000000.0 * 16.613767676227592
+set ele CAVL206 voltage = 1000000.0 * 16.613659338190686
+set ele CAVL207 voltage = 1000000.0 * 16.613489264063677
+set ele CAVL208 voltage = 1000000.0 * 16.613516327565172
+set ele CAVL211 voltage = 1000000.0 * 15.014690393080787
+set ele CAVL212 voltage = 1000000.0 * 14.514939427721302
+set ele CAVL213 voltage = 1000000.0 * 16.61333581887957
+set ele CAVL214 voltage = 1000000.0 * 16.61303717186516
+set ele CAVL215 voltage = 1000000.0 * 16.613004668409353
+set ele CAVL216 voltage = 1000000.0 * 16.613318272666724
+set ele CAVL217 voltage = 1000000.0 * 16.523057121613167
+set ele CAVL218 voltage = 1000000.0 * 16.61291515944298
+set ele CAVL221 voltage = 1000000.0 * 16.53641886324117
+set ele CAVL222 voltage = 1000000.0 * 16.53616475820057
+set ele CAVL223 voltage = 1000000.0 * 16.536390568099318
+set ele CAVL224 voltage = 1000000.0 * 16.53622928071444
+set ele CAVL225 voltage = 1000000.0 * 16.536231523657836
+set ele CAVL226 voltage = 1000000.0 * 16.536188538202428
+set ele CAVL227 voltage = 1000000.0 * 16.53616119160975
+set ele CAVL228 voltage = 1000000.0 * 16.27295675485922
+set ele CAVL231 voltage = 1000000.0 * 16.606142088285313
+set ele CAVL232 voltage = 1000000.0 * 16.606062193179795
+set ele CAVL233 voltage = 1000000.0 * 16.60609953990526
+set ele CAVL234 voltage = 1000000.0 * 16.606052634686833
+set ele CAVL235 voltage = 1000000.0 * 16.605939345893706
+set ele CAVL236 voltage = 1000000.0 * 16.60594291574971
+set ele CAVL237 voltage = 1000000.0 * 15.01299984823136
+set ele CAVL238 voltage = 1000000.0 * 0.0021467132915896927
+set ele CAVL241 voltage = 1000000.0 * 16.61860014196707
+set ele CAVL242 voltage = 1000000.0 * 16.61861480219753
+set ele CAVL243 voltage = 1000000.0 * 16.618588759981478
+set ele CAVL244 voltage = 1000000.0 * 16.61848255405666
+set ele CAVL245 voltage = 1000000.0 * 16.618712825223863
+set ele CAVL246 voltage = 1000000.0 * 16.618469366868926
+set ele CAVL247 voltage = 1000000.0 * 16.623413368097957
+set ele CAVL248 voltage = 1000000.0 * 16.61834816381097
+set ele CAVL251 voltage = 1000000.0 * 16.611744563745752
+set ele CAVL252 voltage = 1000000.0 * 0.0011556106287873569
+set ele CAVL253 voltage = 1000000.0 * 14.614349158854656
+set ele CAVL254 voltage = 1000000.0 * 16.611838877376602
+set ele CAVL255 voltage = 1000000.0 * 16.61164496844968
+set ele CAVL256 voltage = 1000000.0 * 16.611824915637726
+set ele CAVL257 voltage = 1000000.0 * 16.611438167912343
+set ele CAVL258 voltage = 1000000.0 * 16.01326879573269
+set ele CAVL261 voltage = 1000000.0 * 16.523126952658266
+set ele CAVL262 voltage = 1000000.0 * 16.598122818689177
+set ele CAVL263 voltage = 1000000.0 * 16.5979555400958
+set ele CAVL264 voltage = 1000000.0 * 15.808438434102628
+set ele CAVL265 voltage = 1000000.0 * 16.598042160288667
+set ele CAVL266 voltage = 1000000.0 * 15.509949349895598
+set ele CAVL267 voltage = 1000000.0 * 16.59811255094934
+set ele CAVL268 voltage = 1000000.0 * 0.0028479358078510723
+set ele CAVL271 voltage = 1000000.0 * 10.778873196899335
+set ele CAVL272 voltage = 1000000.0 * 10.778812489770113
+set ele CAVL273 voltage = 1000000.0 * 16.610140825673206
+set ele CAVL274 voltage = 1000000.0 * 6.403635169394657
+set ele CAVL275 voltage = 1000000.0 * 11.922181008613794
+set ele CAVL276 voltage = 1000000.0 * 11.922237680997522
+set ele CAVL277 voltage = 1000000.0 * 16.61003808994477
+set ele CAVL278 voltage = 1000000.0 * 16.610056550738413
+set ele CAVL281 voltage = 1000000.0 * 0.0005515515702429765
+set ele CAVL282 voltage = 1000000.0 * 13.784905689119542
+set ele CAVL283 voltage = 1000000.0 * 13.78474801007813
+set ele CAVL284 voltage = 1000000.0 * 13.784777299582354
+set ele CAVL285 voltage = 1000000.0 * 10.30867598412116
+set ele CAVL286 voltage = 1000000.0 * 13.784575984068557
+set ele CAVL287 voltage = 1000000.0 * 13.784750955272317
+set ele CAVL288 voltage = 1000000.0 * 0.0009568909455239852
+set ele CAVL291 voltage = 1000000.0 * 16.617152908175672
+set ele CAVL292 voltage = 1000000.0 * 12.113610799825388
+set ele CAVL293 voltage = 1000000.0 * 16.617668201268625
+set ele CAVL294 voltage = 1000000.0 * 16.617266770772503
+set ele CAVL295 voltage = 1000000.0 * 16.617575320937252
+set ele CAVL296 voltage = 1000000.0 * 16.617416088995526
+set ele CAVL297 voltage = 1000000.0 * 16.617316832183974
+set ele CAVL298 voltage = 1000000.0 * 16.617408163209042
+set ele CAVL301 voltage = 1000000.0 * 12.013276454785993
+set ele CAVL302 voltage = 1000000.0 * 13.01423050747507
+set ele CAVL303 voltage = 1000000.0 * 16.614728947144293
+set ele CAVL304 voltage = 1000000.0 * 16.614664806952163
+set ele CAVL305 voltage = 1000000.0 * 16.61431226269538
+set ele CAVL306 voltage = 1000000.0 * 16.61457679973115
+set ele CAVL307 voltage = 1000000.0 * 13.01389519473296
+set ele CAVL308 voltage = 1000000.0 * 16.614437811872115
+set ele CAVL311 voltage = 1000000.0 * 11.012400362968192
+set ele CAVL312 voltage = 1000000.0 * 16.61504106868477
+set ele CAVL313 voltage = 1000000.0 * 16.614457327288846
+set ele CAVL314 voltage = 1000000.0 * 16.614931459801745
+set ele CAVL315 voltage = 1000000.0 * 16.614748747973167
+set ele CAVL316 voltage = 1000000.0 * 16.6148300107464
+set ele CAVL317 voltage = 1000000.0 * 16.61454682069877
+set ele CAVL318 voltage = 1000000.0 * 12.513822651309335
+set ele CAVL321 voltage = 1000000.0 * 13.026506905577001
+set ele CAVL322 voltage = 1000000.0 * 13.028164860602457
+set ele CAVL323 voltage = 1000000.0 * 13.027854757280362
+set ele CAVL324 voltage = 1000000.0 * 13.0278531603271
+set ele CAVL325 voltage = 1000000.0 * 9.008050935209475
+set ele CAVL326 voltage = 1000000.0 * 13.028024206686453
+set ele CAVL327 voltage = 1000000.0 * 13.027916061777885
+set ele CAVL328 voltage = 1000000.0 * 13.027741126229806
+set ele CAVL331 voltage = 1000000.0 * 13.674445618685107
+set ele CAVL332 voltage = 1000000.0 * 13.655427680147946
+set ele CAVL333 voltage = 1000000.0 * 13.655550489191976
+set ele CAVL334 voltage = 1000000.0 * 13.658872443326684
+set ele CAVL335 voltage = 1000000.0 * 13.665669186315556
+set ele CAVL336 voltage = 1000000.0 * 8.007748704533517
+set ele CAVL337 voltage = 1000000.0 * 13.655458945241964
+set ele CAVL338 voltage = 1000000.0 * 0.001169933707972807
+set ele CAVL341 voltage = 1000000.0 * 16.30348023288563
+set ele CAVL342 voltage = 1000000.0 * 16.303089135402665
+set ele CAVL343 voltage = 1000000.0 * 16.30317303313413
+set ele CAVL344 voltage = 1000000.0 * 16.303537960870152
+set ele CAVL345 voltage = 1000000.0 * 14.00898726113635
+set ele CAVL346 voltage = 1000000.0 * 14.009095447240773
+set ele CAVL347 voltage = 1000000.0 * 14.208410924803353
+set ele CAVL348 voltage = 1000000.0 * 14.009284260355772
+set ele CAVL351 voltage = 1000000.0 * 11.792872285288956
+set ele CAVL352 voltage = 1000000.0 * 11.792953705650087
+set ele CAVL353 voltage = 1000000.0 * 0.000845178688672399
+set ele CAVL354 voltage = 1000000.0 * 0.00018173534860865348
+set ele CAVL355 voltage = 1000000.0 * 0.0003240694435639262
+set ele CAVL356 voltage = 1000000.0 * 0.00023554546062156957
+set ele CAVL357 voltage = 1000000.0 * 0.0003264566740247862
+set ele CAVL358 voltage = 1000000.0 * 0.0001882341369625302
+! Bad value for BUN1B[voltage]: nan
+! Bad value for XC01B[bl_kick]: None
+! Bad value for XC02B[bl_kick]: None
+! Bad value for XC03B[bl_kick]: None
+! Bad value for XC04B[bl_kick]: None
+! Bad value for XC05B[bl_kick]: None
+! Bad value for XCM01[bl_kick]: None
+! Bad value for XC0H01[bl_kick]: None
+! Bad value for XC0H03[bl_kick]: None
+! Bad value for XC0H05[bl_kick]: None
+! Bad value for XC0H07[bl_kick]: None
+! Bad value for XCHD01[bl_kick]: None
+! Bad value for XCHD03[bl_kick]: None
+! Bad value for XCC000[bl_kick]: None
+! Bad value for XCC004[bl_kick]: None
+! Bad value for XCC006[bl_kick]: None
+! Bad value for XCC008[bl_kick]: None
+! Bad value for XCC010[bl_kick]: None
+! Bad value for XCC012[bl_kick]: None
+! Bad value for XCM02[bl_kick]: None
+! Bad value for XCM03[bl_kick]: None
+! Bad value for XC1C00[bl_kick]: None
+! Bad value for XCM12B[bl_kick]: None
+! Bad value for XCC101[bl_kick]: None
+! Bad value for XCC104[bl_kick]: None
+! Bad value for XCC106[bl_kick]: None
+! Bad value for XCC108[bl_kick]: None
+! Bad value for XCC110[bl_kick]: None
+! Bad value for XCC112[bl_kick]: None
+! Bad value for XCM04[bl_kick]: None
+! Bad value for XCM05[bl_kick]: None
+! Bad value for XCM06[bl_kick]: None
+! Bad value for XCM07[bl_kick]: None
+! Bad value for XCM08[bl_kick]: None
+! Bad value for XCM09[bl_kick]: None
+! Bad value for XCM10[bl_kick]: None
+! Bad value for XCM11[bl_kick]: None
+! Bad value for XCM12[bl_kick]: None
+! Bad value for XCM13[bl_kick]: None
+! Bad value for XCM14[bl_kick]: None
+! Bad value for XCM15[bl_kick]: None
+! Bad value for XC2C00[bl_kick]: None
+! Bad value for XCE202[bl_kick]: None
+! Bad value for XCE204[bl_kick]: None
+! Bad value for XCM16[bl_kick]: None
+! Bad value for XCM17[bl_kick]: None
+! Bad value for XCM18[bl_kick]: None
+! Bad value for XCM19[bl_kick]: None
+! Bad value for XCM20[bl_kick]: None
+! Bad value for XCM21[bl_kick]: None
+! Bad value for XCM22[bl_kick]: None
+! Bad value for XCM23[bl_kick]: None
+! Bad value for XCM24[bl_kick]: None
+! Bad value for XCM25[bl_kick]: None
+! Bad value for XCM26[bl_kick]: None
+! Bad value for XCM27[bl_kick]: None
+! Bad value for XCM28[bl_kick]: None
+! Bad value for XCM29[bl_kick]: None
+! Bad value for XCM30[bl_kick]: None
+! Bad value for XCM31[bl_kick]: None
+! Bad value for XCM32[bl_kick]: None
+! Bad value for XCM33[bl_kick]: None
+! Bad value for XCM34[bl_kick]: None
+! Bad value for XCM35[bl_kick]: None
+! Bad value for XCX01[bl_kick]: None
+! Bad value for XCDOG1[bl_kick]: None
+! Bad value for XCDOG3[bl_kick]: None
+! Bad value for XCDOG5[bl_kick]: None
+! Bad value for XCDOG7[bl_kick]: None
+! Bad value for XCL1P[bl_kick]: None
+! Bad value for XCL3P[bl_kick]: None
+! Bad value for XCL5P[bl_kick]: None
+! Bad value for XCBP11[bl_kick]: None
+! Bad value for XCBP13[bl_kick]: None
+! Bad value for XCBP14[bl_kick]: None
+! Bad value for XCBP15[bl_kick]: None
+! Bad value for XCBP16[bl_kick]: None
+! Bad value for XCBP17[bl_kick]: None
+! Bad value for XCBP18[bl_kick]: None
+! Bad value for XCBP19[bl_kick]: None
+! Bad value for XCBP20[bl_kick]: None
+! Bad value for XCBP21[bl_kick]: None
+! Bad value for XCBP22[bl_kick]: None
+! Bad value for XCBP23[bl_kick]: None
+! Bad value for XCBP24[bl_kick]: None
+! Bad value for XCBP25[bl_kick]: None
+! Bad value for XCBP26[bl_kick]: None
+! Bad value for XCBP27[bl_kick]: None
+! Bad value for XCBP35[bl_kick]: None
+! Bad value for XCBP28[bl_kick]: None
+! Bad value for XCSP1[bl_kick]: None
+! Bad value for XCSP1D[bl_kick]: None
+! Bad value for XCSP3D[bl_kick]: None
+! Bad value for BKXRASD[bl_kick]: None
+! Bad value for YC01B[bl_kick]: None
+! Bad value for YC02B[bl_kick]: None
+! Bad value for YC03B[bl_kick]: None
+! Bad value for YC04B[bl_kick]: None
+! Bad value for YC05B[bl_kick]: None
+! Bad value for YCM01[bl_kick]: None
+! Bad value for YC0H01[bl_kick]: None
+! Bad value for YC0H03[bl_kick]: None
+! Bad value for YC0H05[bl_kick]: None
+! Bad value for YC0H07[bl_kick]: None
+! Bad value for YCHD01[bl_kick]: None
+! Bad value for YCHD03[bl_kick]: None
+! Bad value for YCC000[bl_kick]: None
+! Bad value for YCC003[bl_kick]: None
+! Bad value for YCC005[bl_kick]: None
+! Bad value for YCC007[bl_kick]: None
+! Bad value for YCC009[bl_kick]: None
+! Bad value for YCC011[bl_kick]: None
+! Bad value for YCM02[bl_kick]: None
+! Bad value for YCM03[bl_kick]: None
+! Bad value for YC1C00[bl_kick]: None
+! Bad value for YCM12B[bl_kick]: None
+! Bad value for YCC101[bl_kick]: None
+! Bad value for YCC105[bl_kick]: None
+! Bad value for YCC107[bl_kick]: None
+! Bad value for YCC109[bl_kick]: None
+! Bad value for YCC111[bl_kick]: None
+! Bad value for YCM04[bl_kick]: None
+! Bad value for YCM05[bl_kick]: None
+! Bad value for YCM06[bl_kick]: None
+! Bad value for YCM07[bl_kick]: None
+! Bad value for YCM08[bl_kick]: None
+! Bad value for YCM09[bl_kick]: None
+! Bad value for YCM10[bl_kick]: None
+! Bad value for YCM11[bl_kick]: None
+! Bad value for YCM12[bl_kick]: None
+! Bad value for YCM13[bl_kick]: None
+! Bad value for YCM14[bl_kick]: None
+! Bad value for YCM15[bl_kick]: None
+! Bad value for YC2C00[bl_kick]: None
+! Bad value for YCE201[bl_kick]: None
+! Bad value for YCE203[bl_kick]: None
+! Bad value for YCM16[bl_kick]: None
+! Bad value for YCM17[bl_kick]: None
+! Bad value for YCM18[bl_kick]: None
+! Bad value for YCM19[bl_kick]: None
+! Bad value for YCM20[bl_kick]: None
+! Bad value for YCM21[bl_kick]: None
+! Bad value for YCM22[bl_kick]: None
+! Bad value for YCM23[bl_kick]: None
+! Bad value for YCM24[bl_kick]: None
+! Bad value for YCM25[bl_kick]: None
+! Bad value for YCM26[bl_kick]: None
+! Bad value for YCM27[bl_kick]: None
+! Bad value for YCM28[bl_kick]: None
+! Bad value for YCM29[bl_kick]: None
+! Bad value for YCM30[bl_kick]: None
+! Bad value for YCM31[bl_kick]: None
+! Bad value for YCM32[bl_kick]: None
+! Bad value for YCM33[bl_kick]: None
+! Bad value for YCM34[bl_kick]: None
+! Bad value for YCM35[bl_kick]: None
+! Bad value for YCX02[bl_kick]: None
+! Bad value for YCDOG0[bl_kick]: None
+! Bad value for YCDOG2[bl_kick]: None
+! Bad value for YCDOG4[bl_kick]: None
+! Bad value for YCDOG6[bl_kick]: None
+! Bad value for YCDOG8[bl_kick]: None
+! Bad value for YCL2P[bl_kick]: None
+! Bad value for YCL4P[bl_kick]: None
+! Bad value for YCBP10[bl_kick]: None
+! Bad value for YCBP12[bl_kick]: None
+! Bad value for YCBP13[bl_kick]: None
+! Bad value for YCBP14[bl_kick]: None
+! Bad value for YCBP15[bl_kick]: None
+! Bad value for YCBP16[bl_kick]: None
+! Bad value for YCBP17[bl_kick]: None
+! Bad value for YCBP18[bl_kick]: None
+! Bad value for YCBP19[bl_kick]: None
+! Bad value for YCBP20[bl_kick]: None
+! Bad value for YCBP21[bl_kick]: None
+! Bad value for YCBP22[bl_kick]: None
+! Bad value for YCBP23[bl_kick]: None
+! Bad value for YCBP24[bl_kick]: None
+! Bad value for YCBP25[bl_kick]: None
+! Bad value for YCBP26[bl_kick]: None
+! Bad value for YCBP27[bl_kick]: None
+! Bad value for YCBP35[bl_kick]: None
+! Bad value for YCBP28[bl_kick]: None
+! Bad value for YCSP2[bl_kick]: None
+! Bad value for YCSP2D[bl_kick]: None
+! Bad value for YCSP4D[bl_kick]: None
+! Bad value for BKYRASD[bl_kick]: None
+set data L0B.energy[1]|meas  = 1000000000 * 0.05903589407568813
+set ele QCM01 b1_gradient = -0.4347826087 * 1.7648487304485967e-06
+set ele Q0H01 b1_gradient = -0.8038585209 * -2.2101739019933766
+set ele Q0H02 b1_gradient = -0.8038585209 * 2.2799713347241557
+set ele Q0H03 b1_gradient = -0.8038585209 * -2.2598712846105005
+set ele Q0H04 b1_gradient = -0.8038585209 * 1.0377625772758103
+set ele Q0H05 b1_gradient = -0.8038585209 * -2.430962264086821
+set ele Q0H06 b1_gradient = -0.8038585209 * 0.611063650957244
+set ele Q0H07 b1_gradient = -0.8038585209 * 2.5875865221925434
+set ele Q0H08 b1_gradient = -0.8038585209 * -2.746104343033348
+set ele QHD01 b1_gradient = -0.8038585209 * -2.902644531939269
+set ele QHD02 b1_gradient = -0.8038585209 * 2.124657868701762
+set ele QHD03 b1_gradient = -0.8038585209 * -2.892283736837823
+set ele QHD04 b1_gradient = -0.8038585209 * 2.2774790139933043
+set ele QC001 b1_gradient = -0.9259259259 * 2.14719507967146
+set ele QC002 b1_gradient = -0.9259259259 * -1.0879319274007357
+set ele QC003 b1_gradient = -0.9259259259 * -0.2271250659959544
+set ele QC004 b1_gradient = -0.9259259259 * -0.16282553093875368
+set ele QC005 b1_gradient = -0.9259259259 * -0.23877686802251796
+set ele QC006 b1_gradient = -0.9259259259 * 0.5242678500873897
+set ele QC007 b1_gradient = -0.9259259259 * -0.51123347721793
+set ele QC008 b1_gradient = -0.9259259259 * 0.5234737516835152
+set ele QC009 b1_gradient = -0.9259259259 * -0.5078270816697152
+set ele QC010 b1_gradient = -0.9259259259 * 0.26064843285116224
+set ele QC011 b1_gradient = -0.9259259259 * -0.45217605058333465
+set ele QC012 b1_gradient = -0.9259259259 * 0.3873046700293169
+set ele QCM02 b1_gradient = -0.4347826087 * -0.5139327967786067
+set ele QCM03 b1_gradient = -0.4347826087 * 0.44539661940111847
+set ele Q1C01 b1_gradient = -0.9259259259 * 0.8735441743124687
+set ele CQ11B b1_gradient = -0.9259259259 * 0.38448566386498445
+set ele CQ12B b1_gradient = -0.9259259259 * 0.029592823938123583
+set ele QC101 b1_gradient = -0.9259259259 * -0.41715337869404406
+set ele QC102 b1_gradient = -0.9259259259 * 1.9490622302766718
+set ele QC103 b1_gradient = -0.9259259259 * 0.004343597753854497
+set ele QC104 b1_gradient = -0.9259259259 * -1.0969171125838357
+set ele QC105 b1_gradient = -0.9259259259 * -1.3908046502805727
+set ele QC106 b1_gradient = -0.9259259259 * 1.6132947175051995
+set ele QC107 b1_gradient = -0.9259259259 * -1.6042775786348007
+set ele QC108 b1_gradient = -0.9259259259 * 1.6118077645189
+set ele QC109 b1_gradient = -0.9259259259 * -1.6005914274212585
+set ele QC110 b1_gradient = -0.9259259259 * 1.2791168774689565
+set ele QC111 b1_gradient = -0.9259259259 * -1.6137615999764423
+set ele QC112 b1_gradient = -0.9259259259 * 1.166802053570683
+set ele QCM04 b1_gradient = -0.4347826087 * -1.0135332013069962
+set ele QCM05 b1_gradient = -0.4347826087 * 0.6903982521727494
+set ele QCM06 b1_gradient = -0.4347826087 * -0.8267310442799146
+set ele QCM07 b1_gradient = -0.4347826087 * 0.8205081507782666
+set ele QCM08 b1_gradient = -0.4347826087 * -0.994857606961121
+set ele QCM09 b1_gradient = -0.4347826087 * 1.160474518161603
+set ele QCM10 b1_gradient = -0.4347826087 * -1.3147275492986
+set ele QCM11 b1_gradient = -0.4347826087 * 1.4360998085126373
+set ele QCM12 b1_gradient = -0.4347826087 * -1.5998300416889253
+set ele QCM13 b1_gradient = -0.4347826087 * 0.6143544440940647
+set ele QCM14 b1_gradient = -0.4347826087 * -1.8707908910614597
+set ele QCM15 b1_gradient = -0.4347826087 * 0.7739197067161715
+set ele Q2C01 b1_gradient = -0.9259259259 * 2.759306463348986
+set ele CQ21B b1_gradient = -0.9259259259 * -0.11212449426978693
+set ele CQ22B b1_gradient = -0.9259259259 * -0.07133847067027195
+set ele QE201 b1_gradient = -0.9259259259 * -7.000434508850261
+set ele QE202 b1_gradient = -0.9259259259 * 10.75679474974663
+set ele QE203 b1_gradient = -0.9259259259 * -9.70271988321011
+set ele QE204 b1_gradient = -0.9259259259 * 8.893224274443126
+set ele QCM16 b1_gradient = -0.4347826087 * -3.9726234239500657
+set ele QCM17 b1_gradient = -0.4347826087 * 3.418166276601415
+set ele QCM18 b1_gradient = -0.4347826087 * -2.8728912922274787
+set ele QCM19 b1_gradient = -0.4347826087 * 2.810671672701937
+set ele QCM20 b1_gradient = -0.4347826087 * -2.8895709698624485
+set ele QCM21 b1_gradient = -0.4347826087 * 3.0504052497931444
+set ele QCM22 b1_gradient = -0.4347826087 * -3.22139079486528
+set ele QCM23 b1_gradient = -0.4347826087 * 3.3828620214889145
+set ele QCM24 b1_gradient = -0.4347826087 * -3.672124317247041
+set ele QCM25 b1_gradient = -0.4347826087 * 3.6633849312010103
+set ele QCM26 b1_gradient = -0.4347826087 * -3.814127623354094
+set ele QCM27 b1_gradient = -0.4347826087 * 4.057971369712944
+set ele QCM28 b1_gradient = -0.4347826087 * -4.082015816262292
+set ele QCM29 b1_gradient = -0.4347826087 * 4.314047520110774
+set ele QCM30 b1_gradient = -0.4347826087 * -4.625146199956666
+set ele QCM31 b1_gradient = -0.4347826087 * 5.143079636207113
+set ele QCM32 b1_gradient = -0.4347826087 * -6.2233592761949845
+set ele QCM33 b1_gradient = -0.4347826087 * 5.745652167581815
+set ele QCM34 b1_gradient = -0.4347826087 * 0.0005329843229808113
+set ele QCM35 b1_gradient = -0.4347826087 * -6.848146342367748
+set ele QX01 b1_gradient = -0.9363295880000001 * 13.546564421528146
+set ele QX02 b1_gradient = -0.9363295880000001 * -12.122727939879201
+set ele QDOG1 b1_gradient = -0.3802281369 * 17.41542454919415
+set ele QDOG2 b1_gradient = -0.3802281369 * -17.432379021244685
+set ele QDOG3 b1_gradient = -0.3802281369 * 17.051166879556604
+set ele QDOG4 b1_gradient = -0.3802281369 * -17.274291541206377
+set ele QDOG5 b1_gradient = -0.3802281369 * 17.540425990421664
+set ele QDOG6 b1_gradient = -0.3802281369 * -17.31062003686313
+set ele QDOG7 b1_gradient = -0.3802281369 * 17.04118229847352
+set ele QDOG8 b1_gradient = -0.3802281369 * -17.139791252432975
+set ele QL1P b1_gradient = -0.3802281369 * 9.906034516709067
+set ele QL2P b1_gradient = -0.3802281369 * -4.760361064414755
+set ele QL3P b1_gradient = -0.8038585209 * 3.2416698994095774
+set ele QL4P b1_gradient = -0.8038585209 * -4.13287667661979
+set ele QL5P b1_gradient = -0.8038585209 * 2.1994084049506073
+set ele QBP10 b1_gradient = -0.8038585209 * -0.8799212513367637
+set ele QBP11 b1_gradient = -0.8038585209 * 0.8948706476757394
+set ele QBP12 b1_gradient = -0.8038585209 * -0.8979881852599675
+set ele QBP13 b1_gradient = -0.8038585209 * 0.9243982133891449
+set ele QBP14 b1_gradient = -0.8038585209 * -0.9238771784070564
+set ele QBP15 b1_gradient = -0.8038585209 * 0.9243982133891449
+set ele QBP16 b1_gradient = -0.8038585209 * -0.9238771784070564
+set ele QBP17 b1_gradient = -0.8038585209 * 0.9243982133891449
+set ele QBP18 b1_gradient = -0.8038585209 * -0.9238771784070564
+set ele QBP19 b1_gradient = -0.8038585209 * 0.9243982133891449
+set ele QBP20 b1_gradient = -0.8038585209 * -0.9238771784070564
+set ele QBP21 b1_gradient = -0.8038585209 * 0.9243982133891449
+set ele QBP22 b1_gradient = -0.8038585209 * -0.9238771784070564
+set ele QBP23 b1_gradient = -0.8038585209 * 0.9243982133891449
+set ele QBP24 b1_gradient = -0.8038585209 * -0.9238771784070564
+set ele QBP25 b1_gradient = -0.8038585209 * 1.0206080299473363
+set ele QBP26 b1_gradient = -0.8038585209 * -1.5325326954815557
+set ele QBP27 b1_gradient = -0.8038585209 * 1.6189877982183276
+set ele QBP35 b1_gradient = -0.8038585209 * -4.228183272352457
+set ele QBP28 b1_gradient = -0.8038585209 * 4.703210582693657
+set ele QSP1 b1_gradient = -0.3802281369 * 16.193453950103827
+set ele QSP2 b1_gradient = -0.3802281369 * -16.0226652588102
+set ele QSP1D b1_gradient = -0.3802281369 * -7.922645707772632
+set ele QSP2D b1_gradient = -0.3802281369 * 7.147344983953679
+set ele SQ01B k1l = -0.1 * 0.002999977902791989
+set ele CQ01B k1l = -0.1 * 0.000996803384192354
+set ele SQ02B k1l = -0.1 * 0.00035722682380910225
+set ele CQ02B b1_gradient = -2.2075055188 * -0.0013943290129324246
+set ele SOL1BKB bs_field = 0.0 * -6.186443250463883e-07
+set ele SOL1B bs_field = 1.1614401858 * 0.04439845079523628
+set ele SOL2B bs_field = 1.1507479862 * 0.024003545145052225
+set global lattice_calc_on = T
+set global plot_on = T

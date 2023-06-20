@@ -1,0 +1,278 @@
+ BEGINNING[BETA_A] =  2.72543049886904072E+001
+ BEGINNING[ALPHA_A] =  1.28686789164702766E+001
+ BEGINNING[BETA_B] =  1.05091430672801380E+002
+ BEGINNING[ALPHA_B] =  4.79245900953335919E+001
+ BEGINNING[ETA_X] =  0.00000000000000000E+000   ! Not used in optimizing
+ BEGINNING[ETAP_X] =  0.00000000000000000E+000   ! Not used in optimizing
+ CAVL011[GRADIENT] =  2.40498415138108066E+003   ! Not used in optimizing
+ CAVL012[GRADIENT] =  8.66712074726418336E+002   ! Not used in optimizing
+ CAVL013[GRADIENT] =  1.41154189837161994E+003   ! Not used in optimizing
+ CAVL014[GRADIENT] =  1.01940744950377830E+004   ! Not used in optimizing
+ CAVL015[GRADIENT] =  5.90551670297534997E+002   ! Not used in optimizing
+ CAVL016[GRADIENT] =  5.43547350537143188E+002   ! Not used in optimizing
+ CAVL017[GRADIENT] =  8.32311351496126804E+002   ! Not used in optimizing
+ CAVL018[GRADIENT] =  8.20232623329002649E+002   ! Not used in optimizing
+ CAVL011[PHI0] =  4.05164778601693920E-001   ! Not used in optimizing
+ CAVL012[PHI0] = -1.00755197486204109E-001   ! Not used in optimizing
+ CAVL013[PHI0] =  7.98419771858186189E-002   ! Not used in optimizing
+ CAVL014[PHI0] =  2.76600392809859041E-001   ! Not used in optimizing
+ CAVL015[PHI0] = -3.22139590441332946E-001   ! Not used in optimizing
+ CAVL016[PHI0] = -1.07465947514211718E-002   ! Not used in optimizing
+ CAVL017[PHI0] =  3.29855716292621948E-001   ! Not used in optimizing
+ CAVL018[PHI0] =  4.66899498227272947E-001   ! Not used in optimizing
+ Q0H01[K1] = -3.57935955466749363E+002   ! Not used in optimizing
+ Q0H02[K1] =  3.75622099337513873E+002   ! Not used in optimizing
+ Q0H03[K1] = -1.77281269702789444E+002   ! Not used in optimizing
+ Q0H04[K1] =  1.21411628872983599E+002   ! Not used in optimizing
+ Q0H05[K1] = -5.19352969514040524E+002   ! Not used in optimizing
+ Q0H06[K1] =  1.28206573882625179E+002   ! Not used in optimizing
+ Q0H07[K1] =  5.42348881362157613E+002   ! Not used in optimizing
+ Q0H08[K1] = -5.75563083207384238E+002   ! Not used in optimizing
+ QC010[K1] =  6.29300080710856449E+001   ! Not used in optimizing
+ QC011[K1] = -1.09225547864814473E+002   ! Not used in optimizing
+ QC012[K1] =  9.34705779097766225E+001   ! Not used in optimizing
+ QCM02[K1] = -5.85716796223780491E+001   ! Not used in optimizing
+ QCM03[K1] =  5.08388160700429879E+001   ! Not used in optimizing
+ QCM04[K1] = -1.15042293062076197E+002   ! Not used in optimizing
+ QCM08[K1] = -1.12894316473960117E+002   ! Not used in optimizing
+ QCM11[K1] =  1.62458178459739884E+002   ! Not used in optimizing
+ QCM15[K1] =  8.74872852491014470E+001   ! Not used in optimizing
+ QCM17[K1] =  3.85095610191650110E+002   ! Not used in optimizing
+ QCM22[K1] = -3.63130170440918789E+002   ! Not used in optimizing
+ QCM29[K1] =  4.85308166563181658E+002   ! Not used in optimizing
+ QCM35[K1] = -7.71629202993548233E+002   ! Not used in optimizing
+ SC_L1[PHASE_DEG] = -2.48999999999999986E+001   ! Not used in optimizing
+ SC_L1H[PHASE_DEG] = -1.72500000000000000E+002   ! Not used in optimizing
+ SC_L2[PHASE_DEG] = -3.22999999999999972E+001   ! Not used in optimizing
+ SC_L3[PHASE_DEG] =  0.00000000000000000E+000   ! Not used in optimizing
+ QC101[K1] = -1.01302831310402823E+002   ! Not used in optimizing
+ QC102[K1] =  4.73447512898009961E+002   ! Not used in optimizing
+ QC103[K1] =  1.03854402504127163E+000   ! Not used in optimizing
+ QC104[K1] = -2.66398522650595964E+002   ! Not used in optimizing
+ QE201[K1] = -1.68536624162333896E+003   ! Not used in optimizing
+ QE202[K1] =  2.58963034927072840E+003   ! Not used in optimizing
+ QE203[K1] = -2.33583980304783154E+003   ! Not used in optimizing
+ QE204[K1] =  2.14097958977742428E+003   ! Not used in optimizing
+ SC_BC1[ANGLE_DEG] = -5.78234055578229977E+000   ! Not used in optimizing
+ SC_BC2[ANGLE_DEG] =  2.68409245960160003E+000   ! Not used in optimizing
+ XC01B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC02B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC03B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC04B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC05B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM01[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC0H01[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC0H03[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC0H05[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC0H07[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCHD01[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCHD03[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC000[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC004[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC006[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC008[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC010[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC012[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM02[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM03[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC1C00[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM12B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC101[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC104[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC106[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC108[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC110[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCC112[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM04[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM05[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM06[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM07[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM08[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM09[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM10[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM11[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM12[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM13[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM14[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM15[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XC2C00[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCE202[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCE204[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM16[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM17[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM18[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM19[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM20[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM21[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM22[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM23[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM24[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM25[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM26[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM27[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM28[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM29[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM30[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM31[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM32[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM33[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM34[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCM35[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCX01[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCDOG1[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCDOG3[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCDOG5[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCDOG7[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCL1P[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCL3P[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCL5P[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP11[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP13[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP14[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP15[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP16[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP17[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP18[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP19[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP20[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP21[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP22[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP23[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP24[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP25[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP26[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP27[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP35[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCBP28[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCSP1[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCSP1D[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ XCSP3D[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ BKXRASD[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC01B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC02B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC03B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC04B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC05B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM01[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC0H01[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC0H03[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC0H05[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC0H07[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCHD01[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCHD03[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC000[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC003[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC005[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC007[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC009[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC011[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM02[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM03[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC1C00[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM12B[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC101[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC105[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC107[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC109[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCC111[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM04[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM05[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM06[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM07[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM08[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM09[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM10[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM11[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM12[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM13[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM14[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM15[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YC2C00[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCE201[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCE203[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM16[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM17[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM18[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM19[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM20[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM21[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM22[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM23[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM24[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM25[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM26[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM27[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM28[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM29[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM30[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM31[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM32[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM33[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM34[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCM35[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCX02[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCDOG0[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCDOG2[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCDOG4[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCDOG6[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCDOG8[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCL2P[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCL4P[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP10[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP12[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP13[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP14[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP15[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP16[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP17[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP18[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP19[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP20[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP21[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP22[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP23[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP24[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP25[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP26[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP27[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP35[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCBP28[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCSP2[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCSP2D[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ YCSP4D[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ BKYRASD[BL_KICK] = -0.00000000000000000E+000   ! Not used in optimizing
+ 
+ end_file
+ 
+ 
+ ! Top 10
+ 
+ Constraints                          Ref_Ele    Start_Ele   Ele/S    Meas-or-Lim    Model       Merit      Max_Loc
+ HTR.begtwiss[3]  beta.b <target>                           BEGHTR     1.5863E+02   1.5863E+02  7.270E-26
+ HTR.begtwiss[2]  alpha.a <target>                          BEGHTR     3.6798E-02   3.6798E-02  2.155E-27
+ HTR.begtwiss[4]  alpha.b <target>                          BEGHTR    -1.8056E+01  -1.8056E+01  1.262E-27
+ HTR.begtwiss[1]  beta.a <target>                           BEGHTR     2.0617E+01   2.0617E+01  1.262E-28
+ begtwiss[4]      BEGINNING[ALPHA_B]                        0.00      -1.0000E+30   4.7925E+01  0.000E+00
+ begtwiss[3]      BEGINNING[BETA_B]                         0.00       1.0000E-02   1.0509E+02  0.000E+00
+ begtwiss[2]      BEGINNING[ALPHA_A]                        0.00      -1.0000E+30   1.2869E+01  0.000E+00
+ begtwiss[1]      BEGINNING[BETA_A]                         0.00       1.0000E-02   2.7254E+01  0.000E+00
+ Constraints                          Ref_Ele    Start_Ele   Ele/S    Meas-or-Lim    Model       Merit      Max_Loc
+ 
+  figure of merit: 7.624474E-26
+ 
+ List of non-zero contributors to the Merit Function:
+ Name                                          Merit           Sigma [= sqrt(Chi^2/N)]
+ HTR.begtwiss                                  7.6245E-26      4.2770E-14
+ 
+ Constraints                          Ref_Ele    Start_Ele   Ele/S    Meas-or-Lim    Model       Merit      Max_Loc
+ HTR.begtwiss[1]  beta.a <target>                           BEGHTR     2.0617E+01   2.0617E+01  1.262E-28
+ HTR.begtwiss[2]  alpha.a <target>                          BEGHTR     3.6798E-02   3.6798E-02  2.155E-27
+ HTR.begtwiss[3]  beta.b <target>                           BEGHTR     1.5863E+02   1.5863E+02  7.270E-26
+ HTR.begtwiss[4]  alpha.b <target>                          BEGHTR    -1.8056E+01  -1.8056E+01  1.262E-27
+ begtwiss[1]      BEGINNING[BETA_A]                         0.00       1.0000E-02   2.7254E+01  0.000E+00
+ begtwiss[2]      BEGINNING[ALPHA_A]                        0.00      -1.0000E+30   1.2869E+01  0.000E+00
+ begtwiss[3]      BEGINNING[BETA_B]                         0.00       1.0000E-02   1.0509E+02  0.000E+00
+ begtwiss[4]      BEGINNING[ALPHA_B]                        0.00      -1.0000E+30   4.7925E+01  0.000E+00
+ Constraints                          Ref_Ele    Start_Ele   Ele/S    Meas-or-Lim    Model       Merit      Max_Loc
+ 
+  figure of merit: 7.624474E-26
