@@ -1,0 +1,32 @@
+vv
+vd
+set data HTR.begtwiss|meas = HTR.begtwiss|design
+set data HTR.midtwiss|meas = HTR.midtwiss|design
+set data HTR.endtwiss|meas = HTR.endtwiss|design
+set data OTRC006|meas = OTRC006|design
+
+use data HTR.begtwiss[1:4]
+use var begtwiss
+run lmdif
+
+vv
+vd
+
+use data HTR.midtwiss[1:4]
+use var q_HTR[1:8]
+run lmdif
+
+vv
+vd
+
+use data HTR.endtwiss[1:4]
+use var q_HTR[9:12]
+run lmdif
+
+vv
+vd
+
+use data OTRC006[1:4]
+use var q_COL0
+run lmdif
+

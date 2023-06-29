@@ -1,5 +1,11 @@
 set global lattice_calc_on = F
 set global plot_on = F
+
+! Master switches for element scaling
+set ele quad::* field_master = T
+! Turn off phase overlays 
+set ele SC_L* is_on = F
+
 set data orbit.x[1]|meas  = 0.001 * -0.9472686052322388
 set data orbit.x[2]|meas  = 0.001 * -0.2948053479194641
 ! Bad value for orbit.x[3][]: nan

@@ -456,6 +456,32 @@ beam_init%sig_z = 0.8e-3
 
 
 
+&tao_d2_data
+    d2_data%name = 'beta'
+    universe = 1
+    n_d1_data = 2
+/    
+
+&tao_d1_data
+    ix_d1_data = 1
+    default_weight = 1
+    d1_data%name = 'a'
+    default_data_type = 'beta.a'
+    default_data_source = 'lat'
+    !search_for_lat_eles = "monitor::bpm*,monitor::rfb*,monitor::cmb*" 
+    use_same_lat_eles_as = 'orbit.x'
+/
+
+&tao_d1_data
+    ix_d1_data = 2
+    default_weight = 1
+    d1_data%name = 'b'
+    default_data_type = 'beta.b'
+    default_data_source = 'lat'
+    !search_for_lat_eles = "monitor::bpm*,monitor::rfb*,monitor::cmb*" 
+    use_same_lat_eles_as = 'orbit.x'
+/
+
 
 
 !-----------------------------------------
@@ -474,14 +500,14 @@ beam_init%sig_z = 0.8e-3
 /
 
 &tao_var
-    v1_var%name = 'gradient.L1'
+    v1_var%name = 'gradient_L1'
 	default_step = 1e-4
 	default_attribute = 'gradient'
 	search_for_lat_eles = 'lcavity::cavl02*'
 	!var(1:)%ele_name = 'O_L1'
 /
 &tao_var
-    v1_var%name = 'phi0.L1'
+    v1_var%name = 'phi0_L1'
 	default_step = 1e-4
 	default_attribute = 'phi0'
 	search_for_lat_eles = 'lcavity::cavl02*'
@@ -490,29 +516,29 @@ beam_init%sig_z = 0.8e-3
 
 
 &tao_var
-    v1_var%name = 'gradient.L0'
+    v1_var%name = 'gradient_L0'
 	default_step = 1e-4
 	default_attribute = 'gradient'
 	search_for_lat_eles = 'lcavity::cavl01*'
 	!var(1:)%ele_name = 'O_L0'
 /
 &tao_var
-    v1_var%name = 'phi0.L0'
+    v1_var%name = 'phi0_L0'
 	default_step = 1e-4
 	default_attribute = 'phi0'
 	search_for_lat_eles = 'lcavity::cavl01*'
 	!var(1:)%ele_name = 'O_L0'
 /
 
-&tao_var
-    v1_var%name = 'q.HTR'
-	default_step = 1e-4
-	default_attribute = 'K1'
-	search_for_lat_eles = 'quad::Q0H*'
-/
+!&tao_var
+!    v1_var%name = 'q_HTR'
+!	default_step = 1e-4
+!	default_attribute = 'K1'
+!	search_for_lat_eles = 'quad::Q0H*'
+!/
 
 &tao_var
-    v1_var%name = 'q.L1'
+    v1_var%name = 'q_L1'
 	default_step = 1e-4
 	default_attribute = 'K1'
 	var(1:)%ele_name = 'QC010', 'QC011','QC012', 'QCM02', 'QCM03'
@@ -520,14 +546,14 @@ beam_init%sig_z = 0.8e-3
 
 
 &tao_var
-    v1_var%name = 'q.L2'
+    v1_var%name = 'q_L2'
 	default_step = 1e-4
 	default_attribute = 'K1'
 	var(1:)%ele_name = 'QCM04', 'QCM08', 'QCM11', 'QCM15'
 /
 
 &tao_var
-    v1_var%name = 'q.L3'
+    v1_var%name = 'q_L3'
 	default_step = 1e-4
 	default_attribute = 'K1'
 	var(1:)%ele_name = 'QCM17', 'QCM22', 'QCM29', 'QCM35'
@@ -547,6 +573,13 @@ beam_init%sig_z = 0.8e-3
 	default_step = 1e-4
 	default_attribute = 'K1'
 	var(1:)%ele_name = 'QC101', 'QC102', 'QC103', 'QC104'
+/
+
+&tao_var
+    v1_var%name = 'q_COL0'
+	default_step = 1e-4
+	default_attribute = 'K1'
+	var(1:)%ele_name = 'QC001', 'QC002', 'QC003', 'QC004', 'QC005', 'QC006'
 /
 
 &tao_var
